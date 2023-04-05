@@ -162,6 +162,7 @@ class RegisterPage extends StatelessWidget {
                   _controller.descriptionData.value != "") {
                 return ReportButton(
                   onPressed: () async {
+                    _controller.isLoading.value = true;
                     await _controller.createNewIndicent();
                     log("${_controller.photosInciden.length}");
                   },

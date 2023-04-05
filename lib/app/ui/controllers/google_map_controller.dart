@@ -40,7 +40,6 @@ class MapGoogleController extends GetxController {
 
   Future<void> createMarkers() async {
     log("Cargando");
-    isLoadin.value = true;
     try {
       await getIncidents();
       if (incidentes.isNotEmpty) {
