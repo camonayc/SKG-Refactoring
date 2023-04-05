@@ -1,0 +1,4499 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "FID": 0,
+        "NOMBRE": "ALVARADO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "TOLIMA",
+        "MUNPIO": " ",
+        "VIA": "4305",
+        "ubicacion": "4305 PR 19+855",
+        "SECTOR": " ",
+        "descripcion": "20184090751282 del 26/7/2018\n20184091151752 del 2/11/2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.99166099999997,
+          4.507608999852015
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 1,
+        "NOMBRE": "CHICORAL",
+        "ENTIDAD": "ANI",
+        "DEPTO": "TOLIMA",
+        "MUNPIO": " ",
+        "VIA": "4004B",
+        "ubicacion": "4004B PR 17+300",
+        "SECTOR": " ",
+        "descripcion": "La ANI no ha hecho solicitud oficial al respecto, 1sin embargo el Concesionario ha manifestado que se encuentra realizando las actividades para la implementacidn del sistema conforme a la resolucicn del Ministerio."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.88053099999996,
+          4.245501999860542
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 2,
+        "NOMBRE": "CHINAUTA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "4005",
+        "ubicacion": "4005 PR 51+900",
+        "SECTOR": " ",
+        "descripcion": "2018-409-069958-2 del 13/07/2018\n2018-409-047863-2 del 15/05/2018\n2018-409-127230-2 delf04/12/2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.50038099999995,
+          4.269188999859769
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 3,
+        "NOMBRE": "HONDA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "TOLIMA",
+        "MUNPIO": " ",
+        "VIA": "5007",
+        "ubicacion": "5007 PR 35+800",
+        "SECTOR": " ",
+        "descripcion": "Una vez se cuente con la infraestructura entregada por el proyecto Bogot0 - Villavicencio Contrato de Concesirn No 444 de 1994 el 3 de agosto de 2019, se solicitara la implementacimn del Sistema de Recauda electronico IP-REV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.82028199999996,
+          5.201583999829419
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 4,
+        "NOMBRE": "EL KORAN",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "5008B",
+        "ubicacion": "5008B PR 3+360",
+        "SECTOR": " ",
+        "descripcion": "No se ha hecho solicitud oficial al Concesionario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.61349499999994,
+          5.4971889998198655
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 5,
+        "NOMBRE": "CHUSACA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "4005",
+        "ubicacion": "4005 PR 109+200",
+        "SECTOR": " ",
+        "descripcion": "El concesionario ha realizado las acciones para colocar a punto los peajes para la entrada en operaci n IPREV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.27180499999997,
+          4.537451999851011
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 6,
+        "NOMBRE": "BOQUERON I",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "4006",
+        "ubicacion": "4006 K 4+100",
+        "SECTOR": " ",
+        "descripcion": "El Contrato de Concesi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07339499999995,
+          4.452598999853764
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 7,
+        "NOMBRE": "BOQUERON II",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "4006",
+        "ubicacion": "4006 K 9+200",
+        "SECTOR": " ",
+        "descripcion": "El Contrato de Concesi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05004899999994,
+          4.454151999853717
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 8,
+        "NOMBRE": "RÍO BOGOTÁ",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "5008A",
+        "ubicacion": "5008A PR 71+350",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17934399999996,
+          4.6986999998457675
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 9,
+        "NOMBRE": "PATIOS",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "5009",
+        "ubicacion": "5009 PR 0+000",
+        "SECTOR": " ",
+        "descripcion": "El Contrato de Concesidn No 444 de 1994 se encuentra en etapa de reversien con fecha estimada el 03 de agosto de 2019, por lo anterior la implementaci n del Sistema de Recaudo Electr nico REV deber  ser coordinado con la nueva concesionaria Coviandina -"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01060499999994,
+          4.663728999846917
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 10,
+        "NOMBRE": "CORZO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "5008A",
+        "ubicacion": "5008A PR 55+260",
+        "SECTOR": " ",
+        "descripcion": "No se ha hecho solicitud oficial, no obstante han manifestado que se deben hacer unas inversiones importantes para la adecuacian del sistema de recaudo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.29114499999997,
+          4.748721999844157
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 11,
+        "NOMBRE": "CAIQUERO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "5008",
+        "ubicacion": "5008 K 67+950",
+        "SECTOR": " ",
+        "descripcion": "Mediante el rad No. 20184090483882 del 17-5-2018 el Concesionario informa los costos en los que debero incurrir para dar cumplimiento con la Resolucidn 546 de 2018, manifiesta que los costos estbn por fuera del alcance del contrato de Concesion por lo qu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.41410799999994,
+          5.065365999833859
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 12,
+        "NOMBRE": "SIBERIA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "5008",
+        "ubicacion": "5008 K 9+050",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.18502799999999,
+          4.780401999843117
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 13,
+        "NOMBRE": "ANDES",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "45A",
+        "ubicacion": "45A PR2+800",
+        "SECTOR": " ",
+        "descripcion": "20184091256782 de 30 de noviembre de 2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.03308099999998,
+          4.830002999841498
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 14,
+        "NOMBRE": "FUSCA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "55",
+        "ubicacion": "55 PR3+900",
+        "SECTOR": " ",
+        "descripcion": "20184091256782 de 30 de noviembre de 2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.02893099999994,
+          4.83535799984133
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 15,
+        "NOMBRE": "LA CABAÑA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "5009",
+        "ubicacion": "5009 PR 21+650",
+        "SECTOR": " ",
+        "descripcion": "El concesionario manifestG que se encuentra en espera de la forma de pago para la implementacien de las tecnologpas de recaudo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94558699999999,
+          4.8094539998422
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 16,
+        "NOMBRE": "UNISABANA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "45A",
+        "ubicacion": "45A PR5+700",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.03146399999997,
+          4.855402999840664
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 17,
+        "NOMBRE": "NARANJAL",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "4006",
+        "ubicacion": "4006 Km50+100",
+        "SECTOR": " ",
+        "descripcion": "Mediante comunicaciones con radicados ANI Nos. 2018-409-072989-2, 2018-409-106546-2 y 2018-409-114843-2, el concesionario ha manifestado que se debe tener en cuenta \"que existe un tribunal de arbitramento entre las partes, en el cual se discute entre otr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.83480799999995,
+          4.2798719998594414
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 18,
+        "NOMBRE": "PIPIRAL",
+        "ENTIDAD": "ANI",
+        "DEPTO": "META",
+        "MUNPIO": " ",
+        "VIA": "4006",
+        "ubicacion": "4006 Km71+850",
+        "SECTOR": " ",
+        "descripcion": "No se han recibido observaciones."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.72141999999997,
+          4.2000479998620195
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 19,
+        "NOMBRE": "VERACRUZ",
+        "ENTIDAD": "ANI",
+        "DEPTO": "META",
+        "MUNPIO": " ",
+        "VIA": "6510",
+        "ubicacion": "6510 K29+540",
+        "SECTOR": " ",
+        "descripcion": "No se han recibido observaciones."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.44818899999996,
+          4.2610879998600195
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 20,
+        "NOMBRE": "EL ROBLE",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "5501",
+        "ubicacion": "5501 PR 36+660",
+        "SECTOR": " ",
+        "descripcion": "Respuesta Concesionario radicado ANI No.2018-409-079866-2 del 08 de agosto de 2018.\nLa Agencias mediante radicado ANI No.2018-500-034543-1 del 12 de octubre de 2018,\"da respuesta al Concesionario."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.83988199999999,
+          5.031284999834948
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 21,
+        "NOMBRE": "MACHETÁ",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "5607",
+        "ubicacion": "5607 PR 27+240",
+        "SECTOR": " ",
+        "descripcion": "No se han recibido observaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55339799999996,
+          5.077248999833484
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 22,
+        "NOMBRE": "ALBARRACIN",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "5501",
+        "ubicacion": "5501 PR 82+252",
+        "SECTOR": " ",
+        "descripcion": "Respuesta Concesionario radicado ANI No.2018-409-079866-2 del 08 de agosto de 2018.\nLa Agencias mediante radicado ANI No.2018-500-034543-1 del 12 de octubre de 2018,\"da respuesta al Concesionario."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58350399999995,
+          5.290676999826583
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 23,
+        "NOMBRE": "PUERTO BERRÍO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "6206",
+        "ubicacion": "6206 PR 85+0100",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.50138099999998,
+          6.496661999787648
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 24,
+        "NOMBRE": "LA APARTADA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CNRDOBA",
+        "MUNPIO": " ",
+        "VIA": "2513",
+        "ubicacion": "2513 PR 11+800",
+        "SECTOR": " ",
+        "descripcion": "Se tiene: -Propuesta presentada por el Concesionario, -Observaciones a la propuesta hechas por la Interventorca y Respuesta de atenci5n a observaciones presentada por el Concesionario.\nEl Concesionario radict oficio No. 2018-409-135486-2 de 21/1/2018 en"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.30172699999997,
+          8.031277999738641
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 25,
+        "NOMBRE": "RIO SOGAMOSO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "6602",
+        "ubicacion": "6602 PR 14+057",
+        "SECTOR": " ",
+        "descripcion": "el concesionario se encuentra en espera de la instrucciOn de la Entidad para la implementacion de los peajes electrenicos y su valoraci n para el reintegro de los recursos por parte de la ANI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.44055199999997,
+          7.118266999767721
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 26,
+        "NOMBRE": "EL PLACER",
+        "ENTIDAD": "ANI",
+        "DEPTO": "NARILO",
+        "MUNPIO": " ",
+        "VIA": "2502",
+        "ubicacion": "2502 PR 13+100",
+        "SECTOR": " ",
+        "descripcion": "La implementacian del carril para recaudo electrsnico se encuentra dentro del alcance del Contrato y ase est  contemplado en el diseao del peaje."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.40856199999996,
+          1.0873429999641804
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 27,
+        "NOMBRE": "PAVAS",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CALDAS",
+        "MUNPIO": " ",
+        "VIA": "29CL03-1",
+        "ubicacion": "29CL03-1 PR 01 + 300",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58741799999996,
+          5.027061999835119
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 28,
+        "NOMBRE": "SANTÁGUEDA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CALDAS",
+        "MUNPIO": " ",
+        "VIA": "29CL03-1",
+        "ubicacion": "29CL03-1 PR 07 + 200",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59884599999998,
+          5.048661999834398
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 29,
+        "NOMBRE": "SAN BERNARDO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CALDAS",
+        "MUNPIO": " ",
+        "VIA": "5005",
+        "ubicacion": "5005 PR 09 + 100",
+        "SECTOR": " ",
+        "descripcion": "No se han recibido observaciones."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59457399999997,
+          5.0521999998342695
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 30,
+        "NOMBRE": "SUPIA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CALDAS",
+        "MUNPIO": " ",
+        "VIA": "2508",
+        "ubicacion": "2508 PR 64+200",
+        "SECTOR": " ",
+        "descripcion": "Respuesta Concesionario radicado ANI No.2018-409-079866-2 del 08 de agosto de 2018.\nLa Agencias mediante radicado ANI No.2018-500-034543-1 del 12 de octubre de 2018, da respuesta al Concesionario."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60002099999997,
+          5.391558999823265
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 31,
+        "NOMBRE": "LA PINTADA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "25B01",
+        "ubicacion": "25B01 PR 13+800",
+        "SECTOR": " ",
+        "descripcion": "Se realizaron requerimientos por parte del ANI e Interventorla y el concesionario a la fecha no ha emitido respuesta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.62732699999998,
+          5.749469999811686
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 32,
+        "NOMBRE": "PRIMAVERA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "2509",
+        "ubicacion": "2509 PR 38+800",
+        "SECTOR": " ",
+        "descripcion": "Respuestas del Concesionario:\n1. Radicado ANI No. 20184090859702 de fechas21/08/2018\n2. Radicado ANI No. 20184091334742 de fecha 18/12/2018\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59402499999999,
+          5.968796999804627
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 33,
+        "NOMBRE": "AMAGÁ",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "6003",
+        "ubicacion": "6003 PR 89+396",
+        "SECTOR": " ",
+        "descripcion": "El Concesionario ha manifestado quien asume el costo de la instalacifn de servidores y la interoperabilidad."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.65987399999995,
+          6.046948999802095
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 34,
+        "NOMBRE": "LAS PALMAS",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "56-01",
+        "ubicacion": "56-01 K 10+700",
+        "SECTOR": " ",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.53127299999994,
+          6.150629999798751
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 35,
+        "NOMBRE": "PALMITAS",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "6203",
+        "ubicacion": "6203 PR 44+800",
+        "SECTOR": " ",
+        "descripcion": "El concesionario manifestt mediante radicado No. AMC-CU-2018-0767 que se encuentran adelantando las gestiones correspondientes ante el MT, para definir los alcances para la adecuaci n de los carriles IP/REV conforme a la normatividad. A la fecha no se ha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68861399999997,
+          6.326329999793094
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 36,
+        "NOMBRE": "SAN CRISTOBAL",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "6203",
+        "ubicacion": "6203 PR 39+600",
+        "SECTOR": " ",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.65408299999996,
+          6.2970809997940425
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 37,
+        "NOMBRE": "GUARNE",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "60-04",
+        "ubicacion": "60-04 K 7+100",
+        "SECTOR": " ",
+        "descripcion": "\"El concesionario a respondido con radicados ANI.No.-2018-409-068946-2 del 11 de julio de 2018, 2018-409-097516-2 del 21 de septiembre de 2018 yd2018-409-114894-2 del 2 de noviembre de 2018, en los cuales reitera que las exigencias y nuevas condiciones p"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51553299999995,
+          6.327954999793034
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 38,
+        "NOMBRE": "MANGUITOS",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CNRDOBA",
+        "MUNPIO": " ",
+        "VIA": "90",
+        "ubicacion": "90 PR 52+200",
+        "SECTOR": " ",
+        "descripcion": "El concesionario ha realizado las acciones para colocar a punto los peajes para la entrada en operacien IPREV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.52981599999998,
+          8.301116999730088
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 39,
+        "NOMBRE": "PURGATORIO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CNRDOBA",
+        "MUNPIO": " ",
+        "VIA": "2310",
+        "ubicacion": "2310 PR32+600",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.76372499999997,
+          8.630710999719746
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 40,
+        "NOMBRE": "CEDROS",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CNRDOBA",
+        "MUNPIO": " ",
+        "VIA": "7401",
+        "ubicacion": "7401 PR47+000",
+        "SECTOR": " ",
+        "descripcion": "El concesionario ha realizado las acciones para colocar a punto los peajes para la entrada en operacien IPREV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.99890899999997,
+          8.819774999713763
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 41,
+        "NOMBRE": "LOS GARZONES 2",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CNRDOBA",
+        "MUNPIO": " ",
+        "VIA": "21",
+        "ubicacion": "21 PR 6+000",
+        "SECTOR": " ",
+        "descripcion": "A travis de radicado ANI No. 20184091338972, el Concesionario, entre otros, inform  \"la Implementaciin del Sistema de Interoperabilidad requiere inversiones no incluidas por las partes dentro del modelo financiero del Contrato de Concesivn, las cuales se"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.83676099999997,
+          8.827782999713532
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 42,
+        "NOMBRE": "LOS GARZONES 1",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CNRDOBA",
+        "MUNPIO": " ",
+        "VIA": "2103",
+        "ubicacion": "2103 PR 1+0380",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.82458499999996,
+          8.845197999712962
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 43,
+        "NOMBRE": "MATA DE CAÑA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CNRDOBA",
+        "MUNPIO": " ",
+        "VIA": "2103",
+        "ubicacion": "2103 PR 32+500",
+        "SECTOR": " ",
+        "descripcion": "Se realizaron requerimientos por parte del ANI e Interventoroa y el concesionario a la fecha no ha emitido respuesta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.81986199999994,
+          9.091458999705232
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 44,
+        "NOMBRE": "CAIMANERA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "SUCRE",
+        "MUNPIO": " ",
+        "VIA": "25",
+        "ubicacion": "25 PR 41+150",
+        "SECTOR": " ",
+        "descripcion": "El concesionario ha realizado las acciones para colocar a punto los peajes para la entrada en operaciin IPREV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60650599999997,
+          9.465676999693523
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 45,
+        "NOMBRE": "LOS CAUCHOS",
+        "ENTIDAD": "ANI",
+        "DEPTO": "HUILA",
+        "MUNPIO": " ",
+        "VIA": "4505",
+        "ubicacion": "4505 PR 98+500",
+        "SECTOR": " ",
+        "descripcion": "El concesionario manifestS que se encuentra en espera de la forma de pago para la implementacion de las tecnologeas de recaudo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.30195599999996,
+          2.785577999908316
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 46,
+        "NOMBRE": "NEIVA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "HUILA",
+        "MUNPIO": " ",
+        "VIA": "45-06",
+        "ubicacion": "45-06 PR 03+660",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.30725899999999,
+          2.977801999902027
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 47,
+        "NOMBRE": "EL PATÁ",
+        "ENTIDAD": "ANI",
+        "DEPTO": "HUILA",
+        "MUNPIO": " ",
+        "VIA": "45-06",
+        "ubicacion": "45-06 PR 54+590",
+        "SECTOR": " ",
+        "descripcion": "La inversi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20375799999994,
+          3.393786999888366
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 48,
+        "NOMBRE": "FLANDES",
+        "ENTIDAD": "ANI",
+        "DEPTO": "TOLIMA",
+        "MUNPIO": " ",
+        "VIA": "45-07",
+        "ubicacion": "45-07 PR 49+950",
+        "SECTOR": " ",
+        "descripcion": "La inversi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.86115299999994,
+          4.1920989998622815
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 49,
+        "NOMBRE": "IRACÁ",
+        "ENTIDAD": "ANI",
+        "DEPTO": "META",
+        "MUNPIO": " ",
+        "VIA": "6509",
+        "ubicacion": "6509 PR 06+800",
+        "SECTOR": " ",
+        "descripcion": "El proyecto se encuentra en etapa de construccitn, la obligacirn de implementacirn es en la etapa operativa que inicia en  2020. La Concesionaria por intermedio de la CCI, ha trabajado comunicaciones al Ministerio de Transporte solicitando claridades imp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.70642099999998,
+          3.6330369998805616
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 50,
+        "NOMBRE": "OCOA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "META",
+        "MUNPIO": " ",
+        "VIA": "6509",
+        "ubicacion": "6509 PR 54+670",
+        "SECTOR": " ",
+        "descripcion": "Se tiene: -Propuesta presentada por el Concesionario, -Observaciones a la propuesta hechas por la Interventorua y Respuesta de atencion a observaciones presentada por el Concesionario.\nEl Concesionario radics oficio No. 2018-409-135486-2 de 21/1/2018 en"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.77519199999995,
+          4.026258999867693
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 51,
+        "NOMBRE": "PUENTE AMARILLO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "META",
+        "MUNPIO": " ",
+        "VIA": "6510",
+        "ubicacion": "6510 PR 7 +730",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59670299999993,
+          4.194171999862207
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 52,
+        "NOMBRE": "LA LIBERTAD",
+        "ENTIDAD": "ANI",
+        "DEPTO": "META",
+        "MUNPIO": " ",
+        "VIA": "4007",
+        "ubicacion": "4007 PR 17+570",
+        "SECTOR": " ",
+        "descripcion": "Es una obligaciin Contractual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.46328699999998,
+          4.056969999866681
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 53,
+        "NOMBRE": "CASETABLA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "META",
+        "MUNPIO": " ",
+        "VIA": "4008",
+        "ubicacion": "4008 PR 16+230",
+        "SECTOR": " ",
+        "descripcion": "Mediante comunicaciones con radicados ANI Nos. 2018-409-072989-2, 2018-409-106546-2 y 2018-409-114843-2, el concesionario ha manifestado que se debe tener en cuenta \"que existe un tribunal de arbitramento entre las partes, en el cual se discute entre otr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.83501399999994,
+          4.11271499986487
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 54,
+        "NOMBRE": "GUALANDAY",
+        "ENTIDAD": "ANI",
+        "DEPTO": "TOLIMA",
+        "MUNPIO": " ",
+        "VIA": "4004",
+        "ubicacion": "4004 PR 9+700",
+        "SECTOR": " ",
+        "descripcion": "La ANI no ha hecho solicitud oficial al respecto, 8sin embargo el Concesionario ha manifestado que se encuentra realizando las actividades para la implementaciun del sistema conforme a la resolucitn del Ministerio."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.05008699999996,
+          4.300425999858777
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 55,
+        "NOMBRE": "EL EBANAL",
+        "ENTIDAD": "ANI",
+        "DEPTO": "LA GUAJIRA",
+        "MUNPIO": " ",
+        "VIA": "9009",
+        "ubicacion": "9009 PR 53+900",
+        "SECTOR": " ",
+        "descripcion": "Mediante oficio ANI No. 2018-409-074834-2.del 26 de julio de 2018, informa a la Agencia que el costo estimado de la implementacicn del sistema electrpnico asciende a $15.864.708.913, por lo que solicita se le informe la manera de compensacicn de dichas i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12212399999999,
+          11.276193999637716
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 56,
+        "NOMBRE": "ALTO PINO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "LA GUAJIRA",
+        "MUNPIO": " ",
+        "VIA": "9010",
+        "ubicacion": "9010 PR 41+100",
+        "SECTOR": " ",
+        "descripcion": "Mediante oficio ANI No. 2018-409-074834-2.del 26 de julio de 2018, informa a la Agencia que el costo estimado de la implementacicn del sistema electrpnico asciende a $15.864.708.913, por lo que solicita se le informe la manera de compensacicn de dichas i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.54256399999997,
+          11.444817999632617
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 57,
+        "NOMBRE": "PARAGUACHON",
+        "ENTIDAD": "ANI",
+        "DEPTO": "LA GUAJIRA",
+        "MUNPIO": " ",
+        "VIA": "9010",
+        "ubicacion": "9010 PR 84+500",
+        "SECTOR": " ",
+        "descripcion": "Se tiene: -Propuesta presentada por el Concesionario, -Observaciones a la propuesta hechas por la Interventor a y Respuesta de atenciln a observaciones presentada por el Concesionario.\nEl Concesionario radice oficio No. 2018-409-135486-2 de 21/12/2018 en"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.15662399999997,
+          11.367613999634967
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 58,
+        "NOMBRE": "LOS ACACIOS",
+        "ENTIDAD": "ANI",
+        "DEPTO": "NORTE DE SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "55",
+        "ubicacion": "55 PR119+700",
+        "SECTOR": " ",
+        "descripcion": "El concesionario manifesti que se encuentra en espera de la forma de pago para la implementaci n de las tecnologyas de recaudo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.57131999999996,
+          7.721371999748465
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 59,
+        "NOMBRE": "LA LOMA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CESAR",
+        "MUNPIO": " ",
+        "VIA": "4516",
+        "ubicacion": "4516 PR 41+800",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63943499999993,
+          9.63800299968815
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 60,
+        "NOMBRE": "ALTAMIRA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "HUILA",
+        "MUNPIO": " ",
+        "VIA": "4504",
+        "ubicacion": "4504 PR 60+507",
+        "SECTOR": " ",
+        "descripcion": "Se realizaron requerimientos por parte del ANI e Interventorfa y el concesionario a la fecha no ha emitido respuesta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70068399999997,
+          2.1428849999294233
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 61,
+        "NOMBRE": "COROZAL",
+        "ENTIDAD": "ANI",
+        "DEPTO": "VALLE DEL CAUCA",
+        "MUNPIO": " ",
+        "VIA": "4002",
+        "ubicacion": "4002 PR 22 + 650",
+        "SECTOR": " ",
+        "descripcion": "el concesionario se encuentra en espera de la instruccien de la Entidad para la implementaci n de los peajes electranicos y su valoraci n para el reintegro de los recursos por parte de la ANI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.89987199999996,
+          4.407928999855226
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 62,
+        "NOMBRE": "CIRCASIA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "QUINDIO",
+        "MUNPIO": " ",
+        "VIA": "2901",
+        "ubicacion": "2901 PR 16  + 850",
+        "SECTOR": " ",
+        "descripcion": "El concesionario se encuentra en espera de la instruccien de la Entidad para la implementaci n de los peajes electranicos y su valoraci n para el reintegro de los recursos por parte de la ANI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60614799999996,
+          4.698387999845772
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 63,
+        "NOMBRE": "ACAPULCO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CALDAS",
+        "MUNPIO": " ",
+        "VIA": "2507",
+        "ubicacion": "2507 PR 24+020",
+        "SECTOR": " ",
+        "descripcion": "Se encuentra en etapa de construccipn hasta el mes de octubre de 2020, la obligacipn de implementacisn es en la etapa operativa. La Concesionaria por intermedio de la CCI, ha trabajado comunicaciones al Ministerio de Transporte solicitando claridades imp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.85887099999997,
+          4.999061999836008
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 64,
+        "NOMBRE": "TARAPACA I",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CALDAS",
+        "MUNPIO": " ",
+        "VIA": "29RSC",
+        "ubicacion": "29RSC PR 20 + 800",
+        "SECTOR": " ",
+        "descripcion": "2018-409-069958-2 del 13/07/2018\n2018-409-047863-2 delo15/05/2018\n2018-409-127230-2 del 04/12/2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61659199999997,
+          4.939135999837995
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 65,
+        "NOMBRE": "TARAPACA II",
+        "ENTIDAD": "ANI",
+        "DEPTO": "RISARALDA",
+        "MUNPIO": " ",
+        "VIA": "29RSC",
+        "ubicacion": "29RSC PR 24 + 800",
+        "SECTOR": " ",
+        "descripcion": "Se realizaron requerimientos por parte del ANI e Interventor/a y el concesionario a la fecha no ha emitido respuesta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61876699999993,
+          4.9497329998376065
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 66,
+        "NOMBRE": "SAN PEDRO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CASANARE",
+        "MUNPIO": " ",
+        "VIA": "6511",
+        "ubicacion": "6511 PR 15+000",
+        "SECTOR": " ",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.94374799999997,
+          4.678608999846438
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 67,
+        "NOMBRE": "TUTA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "BOYACS",
+        "MUNPIO": " ",
+        "VIA": "5502",
+        "ubicacion": "5502 PR 12+090",
+        "SECTOR": " ",
+        "descripcion": "No se han recibido observaciones."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.27843499999994,
+          5.656911999814684
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 68,
+        "NOMBRE": "YUCAO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "META",
+        "MUNPIO": " ",
+        "VIA": "4008",
+        "ubicacion": "4008 PR 99+180",
+        "SECTOR": " ",
+        "descripcion": "La inversi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.09069799999997,
+          4.314230999858314
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 69,
+        "NOMBRE": "EL PICACHO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "6603",
+        "ubicacion": "6603 PR 48+000",
+        "SECTOR": " ",
+        "descripcion": "2018-409-096743-2p del 19/09/2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.96897899999993,
+          7.1079689997680155
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 70,
+        "NOMBRE": "LA PARADA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "NORTE DE SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "7010",
+        "ubicacion": "7010 PR 1 + 800",
+        "SECTOR": " ",
+        "descripcion": "Es una obligacian Contractual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.48424499999999,
+          7.867415999743845
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 71,
+        "NOMBRE": "EL ESCOBAL",
+        "ENTIDAD": "ANI",
+        "DEPTO": "NORTE DE SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "SC",
+        "ubicacion": "SC PR 2 + 000",
+        "SECTOR": " ",
+        "descripcion": "El concesionario manifest. mediante radicado No. AMC-CU-2018-0767 que se encuentran adelantando las gestiones correspondientes ante el MT, para definir los alcances para la adecuacipn de los carriles IP/REV conforme a la normatividad. A la fecha no se ha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.46945999999997,
+          7.910620999742468
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 72,
+        "NOMBRE": "LA ESPERANZA 01",
+        "ENTIDAD": "ANI",
+        "DEPTO": "SUCRE",
+        "MUNPIO": " ",
+        "VIA": "25SC",
+        "ubicacion": "25SC PR 15+0397",
+        "SECTOR": " ",
+        "descripcion": "Una vez se cuente con la infraestructura entregada por el proyecto Bogot  - Villavicencio Contrato de Concesi n No 444 de 1994 el 3 de agosto de 2019, se solicitara la implementaciin del Sistema de Recauda electrrnico IP-REV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.43595099999999,
+          9.43074199969465
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 73,
+        "NOMBRE": "LAS FLORES",
+        "ENTIDAD": "ANI",
+        "DEPTO": "SUCRE",
+        "MUNPIO": " ",
+        "VIA": "2515",
+        "ubicacion": "2515 PR 5+0850",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.32005299999997,
+          9.318890999698146
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 74,
+        "NOMBRE": "SAN ONOFRE",
+        "ENTIDAD": "ANI",
+        "DEPTO": "SUCRE",
+        "MUNPIO": " ",
+        "VIA": "9005",
+        "ubicacion": "9005 PR 21+500",
+        "SECTOR": " ",
+        "descripcion": "NQuien asume los costos adicionales de Interoperabilidad? \nRad ANI No. 2018-409-097545-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39903999999996,
+          9.863500999681163
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 75,
+        "NOMBRE": "EL CARMEN",
+        "ENTIDAD": "ANI",
+        "DEPTO": "BOL",
+        "MUNPIO": " ",
+        "VIA": "2515",
+        "ubicacion": "2515 PR 60+650",
+        "SECTOR": " ",
+        "descripcion": "La implementacinn del carril para recaudo electrCnico se encuentra dentro del alcance del Contrato y aso presentN los dise1os."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12491599999998,
+          9.682154999686773
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 76,
+        "NOMBRE": "GAMBOTE",
+        "ENTIDAD": "ANI",
+        "DEPTO": "BOL",
+        "MUNPIO": " ",
+        "VIA": "9005",
+        "ubicacion": "9005 PR 61+660",
+        "SECTOR": " ",
+        "descripcion": "\"El Concesionario Autopistas del Sol S.A.S. en sus comunicaciones radicadas en la ANI, Nos. 2018-409-098024-2 y 2018-409-119206-2, manifiesta :\n1. Que la inversian aproximada es de $8,359,981,604 a precios de 2018 de pesos sin incluir algunos costos entr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.26426699999996,
+          10.136158999672691
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 77,
+        "NOMBRE": "PASACABALLOS",
+        "ENTIDAD": "ANI",
+        "DEPTO": "BOL",
+        "MUNPIO": " ",
+        "VIA": "90B",
+        "ubicacion": "90B PR 17+200",
+        "SECTOR": " ",
+        "descripcion": "el concesionario se encuentra en espera de la instruccinn de la Entidad para la implementaci2n de los peajes electr8nicos y su valoracifn para el reintegro de los recursos por parte de la ANI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.44544999999994,
+          10.24422799966936
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 78,
+        "NOMBRE": "TURBACO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "BOL",
+        "MUNPIO": " ",
+        "VIA": "9005",
+        "ubicacion": "9005 PR 95+900",
+        "SECTOR": " ",
+        "descripcion": "A travis de radicado ANI No. 20184091338972, el Concesionario, entre otros, informp \"la Implementacisn del Sistema de Interoperabilidad requiere inversiones no incluidas por las partes dentro del modelo financiero del Contrato de Concesign, las cuales se"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.44344299999995,
+          10.357027999665918
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 79,
+        "NOMBRE": "PUENTE PLATO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "MAGDALENA",
+        "MUNPIO": " ",
+        "VIA": "8002",
+        "ubicacion": "8002 PR 0+500",
+        "SECTOR": " ",
+        "descripcion": "Este peaje ser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.80898299999996,
+          9.791387999683394
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 80,
+        "NOMBRE": "CALAMAR",
+        "ENTIDAD": "ANI",
+        "DEPTO": "BOL",
+        "MUNPIO": " ",
+        "VIA": "2515",
+        "ubicacion": "2515 PR 131+076",
+        "SECTOR": " ",
+        "descripcion": "Segan comunicacien 20184091306462 de 12/12/2018 el Concesionario manifiesta: Teniendo en cuenta los tiempos y obligaciones impuestas por la Resolucien No. 546 de 2018 a los\nConcesionarios con relacidn a la implementaciCn del sistema de Interoperabilidad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.94501499999996,
+          10.20810599967049
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 81,
+        "NOMBRE": "EL DIFICIL",
+        "ENTIDAD": "ANI",
+        "DEPTO": "MAGDALENA",
+        "MUNPIO": " ",
+        "VIA": "8002",
+        "ubicacion": "8002 PR 67+100",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.26775399999997,
+          9.831165999682176
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 82,
+        "NOMBRE": "EL COPEY",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CESAR",
+        "MUNPIO": " ",
+        "VIA": "4517",
+        "ubicacion": "4517 PR 10+500",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92382560199997,
+          10.060371821675053
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 83,
+        "NOMBRE": "VALENCIA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CESAR",
+        "MUNPIO": " ",
+        "VIA": "8003",
+        "ubicacion": "8003 PR 87+500",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.43075599999997,
+          10.259703999668911
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 84,
+        "NOMBRE": "MARAHUACO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "BOL",
+        "MUNPIO": " ",
+        "VIA": "90A",
+        "ubicacion": "90A PR 15+1100",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45044375999998,
+          10.57424104065921
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 85,
+        "NOMBRE": "BAYUNCA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "BOL",
+        "MUNPIO": " ",
+        "VIA": "9006",
+        "ubicacion": "9006 PR 19+940",
+        "SECTOR": " ",
+        "descripcion": "\"El Concesionario Autopistas del Sol S.A.S. en sus comunicaciones radicadas en la ANI, Nos. 2018-409-098024-2 y 2018-409-119206-2, manifiesta :\n1. Que la inversi n aproximada es de $8,359,981,604 a precios de 2018 de pesos sin incluir algunos costos entr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.36517299999997,
+          10.54699199966005
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 86,
+        "NOMBRE": "GALAPA 01",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ATL",
+        "MUNPIO": " ",
+        "VIA": "9006",
+        "ubicacion": "9006 PR 101+800",
+        "SECTOR": " ",
+        "descripcion": "\"El Concesionario Autopistas del Sol S.A.S. en sus comunicaciones radicadas en la ANI, Nos. 2018-409-098024-2 y 2018-409-119206-2, manifiesta :\n1. Que la inversi n aproximada es de $8,359,981,604 a precios de 2018 de pesos sin incluir algunos costos entr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.90212199999996,
+          10.83753299965114
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 87,
+        "NOMBRE": "PUERTO COLOMBIA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ATL",
+        "MUNPIO": " ",
+        "VIA": "90A",
+        "ubicacion": "90A PR 93+600",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.95608175999996,
+          10.967155536647166
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 88,
+        "NOMBRE": "SABANAGRANDE",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ATL",
+        "MUNPIO": " ",
+        "VIA": "2516",
+        "ubicacion": "2516 PR 64+850",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.75900299999995,
+          10.799602999652295
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 89,
+        "NOMBRE": "PAPIROS",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ATL",
+        "MUNPIO": " ",
+        "VIA": "90A",
+        "ubicacion": "90A PR 103+800",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.88954576099997,
+          11.012255594645794
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 90,
+        "NOMBRE": "TUCURINCA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "MAGDALENA",
+        "MUNPIO": " ",
+        "VIA": "4518",
+        "ubicacion": "4518 PR 48+700",
+        "SECTOR": " ",
+        "descripcion": "No ha habido requerimientos al respecto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.16849499999995,
+          10.608982999658119
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 91,
+        "NOMBRE": "NEGUANJE",
+        "ENTIDAD": "ANI",
+        "DEPTO": "MAGDALENA",
+        "MUNPIO": " ",
+        "VIA": "9008",
+        "ubicacion": "9008 PR 6+670",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.10932199999996,
+          11.253062999638447
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 92,
+        "NOMBRE": "COCORA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "TOLIMA",
+        "MUNPIO": " ",
+        "VIA": "4003",
+        "ubicacion": "4003 PR 69+000",
+        "SECTOR": " ",
+        "descripcion": "Mediante comunicaciones con radicados ANI Nos. 2018-409-072989-2, 2018-409-106546-2 y 2018-409-114843-2, el concesionario ha manifestado que se debe tener en cuenta \"que existe un tribunal de arbitramento entre las partes, en el cual se discute entre otr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.31174511999996,
+          4.416857999854957
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 93,
+        "NOMBRE": "ARMERO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "TOLIMA",
+        "MUNPIO": " ",
+        "VIA": "SC",
+        "ubicacion": "SC K 21+750",
+        "SECTOR": " ",
+        "descripcion": "20184090751282 del 26/7/2018\n20184091151752 del 2/11/2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.91442581399997,
+          4.958352402837334
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 94,
+        "NOMBRE": "CORDILLERA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "VALLE DEL CAUCA",
+        "MUNPIO": " ",
+        "VIA": "SC",
+        "ubicacion": "SC PR 16+300",
+        "SECTOR": " ",
+        "descripcion": "No se han realizado requerimientos al Concesionario, toda vez que se esta a la espera de nuevo pronunciamiento por parte del Ministerio de Transporte sobre la posible  prorroga a la Resolucien de implementacirn de Sistema de Recaudo electrsnico."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.59652715999994,
+          3.681338039878994
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 95,
+        "NOMBRE": "PIENDAMÓ",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CAUCA",
+        "MUNPIO": " ",
+        "VIA": "2504",
+        "ubicacion": "2504 PR 17+200",
+        "SECTOR": " ",
+        "descripcion": "No ha habido requerimientos al respecto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.52735099999995,
+          2.610369999914074
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 96,
+        "NOMBRE": "LA LIZAMA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "6601",
+        "ubicacion": "6601 K 18+100",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.71739199999996,
+          7.083516999768798
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 97,
+        "NOMBRE": "FRAGUA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "SC",
+        "ubicacion": "SC K 33+000",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.82194207999999,
+          7.261757009763128
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 98,
+        "NOMBRE": "ZARAGOZA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "SC",
+        "ubicacion": "SC K 21+100",
+        "SECTOR": " ",
+        "descripcion": "Es una obligacixn Contractual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.89396448799994,
+          7.6307228417513855
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 99,
+        "NOMBRE": "SANTA ISABEL",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "SC",
+        "ubicacion": "SC K 58+280",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.75986194199999,
+          6.953812824772975
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 100,
+        "NOMBRE": "VEGACHÍ",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "SC",
+        "ubicacion": "SC K 15+300",
+        "SECTOR": " ",
+        "descripcion": "Respuestas del Concesionario:\n1. Radicado ANI No. 20184090859702 de fecha 21/08/2018\n2. Radicado ANI No. 20184091334742 de fecha 18/12/2018\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.79873791999995,
+          6.628852979783369
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 101,
+        "NOMBRE": "MUTATÁ",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "6202",
+        "ubicacion": "6202 K 38+500 (PR 61)",
+        "SECTOR": " ",
+        "descripcion": "Mediante oficio ANI No. 2018-409-074834-2 del 26 de julio de 2018, informa a la Agencia que el costo estimado de la implementaci n del sistema electr nico asciende a $15.864.708.913, por lo que solicita se le informe la manera de compensacinn de dichas i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.43316783899996,
+          7.22121689376443
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 102,
+        "NOMBRE": "FUEMIA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "SC",
+        "ubicacion": "SC K 6+200",
+        "SECTOR": " ",
+        "descripcion": "No se han recibido observaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.24262928399997,
+          6.952529333773033
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 103,
+        "NOMBRE": "GALAPA 02",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ATL",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  K 11+700",
+        "SECTOR": " ",
+        "descripcion": "No se han recibido observaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.83706099999995,
+          10.88217503964976
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 104,
+        "NOMBRE": "JUAN MINA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ATL",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  PR 20+000",
+        "SECTOR": " ",
+        "descripcion": "Mediante comunicaciones con radicados ANI Nos. 2018-409-072989-2, 2018-409-106546-2 y 2018-409-114843-2, el concesionario ha manifestado que se debe tener en cuenta \"que existe un tribunal de arbitramento entre las partes, en el cual se discute entre otr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.89449503499998,
+          10.929328213648336
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 105,
+        "NOMBRE": "CAMBAO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "BOYACO",
+        "MUNPIO": " ",
+        "VIA": "4510",
+        "ubicacion": "4510 PR 93+270",
+        "SECTOR": " ",
+        "descripcion": "No se han recibido observaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.71918747699993,
+          4.946149159837749
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 106,
+        "NOMBRE": "SAN LUIS DE GACENO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "BOYACU",
+        "MUNPIO": " ",
+        "VIA": "5608",
+        "ubicacion": "5608 PR 76+990",
+        "SECTOR": " ",
+        "descripcion": "Se tiene: -Propuesta presentada por el Concesionario, -Observaciones a la propuesta hechas por la Interventoroa y Respuesta de atencian a observaciones presentada por el Concesionario.\nEl Concesionario radict oficio No. 2018-409-135486-2 de 21/12/2018 en"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08696708699995,
+          4.826300455841649
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 107,
+        "NOMBRE": "BRISAS",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CALDAS",
+        "MUNPIO": " ",
+        "VIA": "4510",
+        "ubicacion": "4510 PR 11+000",
+        "SECTOR": " ",
+        "descripcion": "No se han recibido observaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.74547290799995,
+          5.295756688826377
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 108,
+        "NOMBRE": "EL GUAICO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CALDAS",
+        "MUNPIO": " ",
+        "VIA": "SC",
+        "ubicacion": "SC K 8+750",
+        "SECTOR": " ",
+        "descripcion": "Se encuentra en etapa de construcci n hasta el mes de octubre de 2020, la obligacian de implementacitn es en la etapa operativa. La Concesionaria por intermedio de la CCI, ha trabajado comunicaciones al Ministerio de Transporte solicitando claridades imp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.76934379599999,
+          5.1044026318326265
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 109,
+        "NOMBRE": "IRRA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CALDAS",
+        "MUNPIO": " ",
+        "VIA": "2903",
+        "ubicacion": "2903 PR 36+750",
+        "SECTOR": " ",
+        "descripcion": "Es una obligaciin Contractual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.65746103999999,
+          5.257731959827637
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 110,
+        "NOMBRE": "LA ESPERANZA 02",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CALDAS",
+        "MUNPIO": " ",
+        "VIA": "SC",
+        "ubicacion": "SC K 124+760",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.32696915999998,
+          5.005668959835796
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 111,
+        "NOMBRE": "TACUYA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CASANARE",
+        "MUNPIO": " ",
+        "VIA": "6512",
+        "ubicacion": "6512 R25+400",
+        "SECTOR": " ",
+        "descripcion": "Se tiene: -Propuesta presentada por el Concesionario, -Observaciones a la propuesta hechas por la Interventorla y Respuesta de atencion a observaciones presentada por el Concesionario.\nEl Concesionario radics oficio No. 2018-409-135486-2 de 21/12/2018 en"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.73703303999997,
+          4.840850969841186
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 112,
+        "NOMBRE": "YOPAL",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CASANARE",
+        "MUNPIO": " ",
+        "VIA": "6512",
+        "ubicacion": "6512 PR92+150",
+        "SECTOR": " ",
+        "descripcion": "No se han recibido observaciones."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.47966507999996,
+          5.263450019827442
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 113,
+        "NOMBRE": "VILLALOBOS",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CAUCA",
+        "MUNPIO": " ",
+        "VIA": "4503",
+        "ubicacion": "4503 PR89+000",
+        "SECTOR": " ",
+        "descripcion": "A travis de radicado ANI No. 20184091338972, el Concesionario, entre otros, informa \"la Implementacitn del Sistema de Interoperabilidad requiere inversiones no incluidas por las partes dentro del modelo financiero del Contrato de Concesi n, las cuales se"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.28484712799997,
+          1.615586663946784
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 114,
+        "NOMBRE": "MONDOMO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CAUCA",
+        "MUNPIO": " ",
+        "VIA": "2504",
+        "ubicacion": "2504 PR 60+700",
+        "SECTOR": " ",
+        "descripcion": "2018-409-096743-2  del 19/09/2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.53561803999997,
+          2.9282039999036478
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 115,
+        "NOMBRE": "GUATAQUÍ",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "4508",
+        "ubicacion": "4508 PR 45+270",
+        "SECTOR": " ",
+        "descripcion": "20184091256782 de 30 de noviembre de 2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.79632199999998,
+          4.565596999850089
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 116,
+        "NOMBRE": "SOPO-SALITRE",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "50 CN03",
+        "ubicacion": "50 CN03 PR 2+200",
+        "SECTOR": " ",
+        "descripcion": "\"El Concesionario Autopistas del Sol S.A.S. en sus comunicaciones radicadas en la ANI, Nos. 2018-409-098024-2 y 2018-409-119206-2, manifiesta :\n1. Que la inversinn aproximada es de $8,359,981,604 a precios de 2018 de pesos sin incluir algunos costos entr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93649983299997,
+          4.843616195841049
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 117,
+        "NOMBRE": "UBAQUE",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "4006A",
+        "ubicacion": "4006A K 39+290",
+        "SECTOR": " ",
+        "descripcion": "La inversi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91951315999995,
+          4.440507029854187
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 118,
+        "NOMBRE": "CHOACHÍ-LIMITE BOGOTA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "4006A",
+        "ubicacion": "4006A PR 2+045",
+        "SECTOR": " ",
+        "descripcion": "Se tiene: -Propuesta presentada por el Concesionario, -Observaciones a la propuesta hechas por la Interventorla y Respuesta de atenciun a observaciones presentada por el Concesionario.\nEl Concesionario radici oficio No. 2018-409-135486-2 de 21/12/2018 en"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99020995999996,
+          4.563816029850172
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 119,
+        "NOMBRE": "SAN CARLOS",
+        "ENTIDAD": "ANI",
+        "DEPTO": "CNRDOBA",
+        "MUNPIO": " ",
+        "VIA": "SC",
+        "ubicacion": "SC K 9+660",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71836755799995,
+          8.707927342717287
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 120,
+        "NOMBRE": "LABERINTO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "HUILA",
+        "MUNPIO": " ",
+        "VIA": "4505",
+        "ubicacion": "4505 PR55+000",
+        "SECTOR": " ",
+        "descripcion": "\"El concesionario a respondido con radicados ANI.No.,2018-409-068946-2 del 11 de julio de 2018, 2018-409-097516-2 del 21 de septiembre de 2018 ya2018-409-114894-2 del 2 de noviembre de 2018, en los cuales reitera que las exigencias y nuevas condiciones p"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.50432870499998,
+          2.540636338916376
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 121,
+        "NOMBRE": "EL CAIRO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "META",
+        "MUNPIO": " ",
+        "VIA": "SC",
+        "ubicacion": "SC PK 12+400",
+        "SECTOR": " ",
+        "descripcion": "Mediante comunicaciones con radicados ANI Nos. 2018-409-072989-2, 2018-409-106546-2 y 2018-409-114843-2, el concesionario ha manifestado que se debe tener en cuenta \"que existe un tribunal de arbitramento entre las partes, en el cual se discute entre otr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59198365499998,
+          4.192206884862314
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 122,
+        "NOMBRE": "MUTISCUA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "NORTE DE SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "6603",
+        "ubicacion": "6603 PR 98+000",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.73620830199997,
+          7.304339654761751
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 123,
+        "NOMBRE": "PAMPLONITA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "NORTE DE SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "5505",
+        "ubicacion": "5505 PR78+230",
+        "SECTOR": " ",
+        "descripcion": "\"El Concesionario Autopistas del Sol S.A.S. en sus comunicaciones radicadas en la ANI, Nos. 2018-409-098024-2 y 2018-409-119206-2, manifiesta :\n1. Que la inversinn aproximada es de $8,359,981,604 a precios de 2018 de pesos sin incluir algunos costos entr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.61926866099998,
+          7.422466831758003
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 124,
+        "NOMBRE": "MOCOA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "PUTUMAYO",
+        "MUNPIO": " ",
+        "VIA": "4503",
+        "ubicacion": "4503 PR17+000",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.59515586699996,
+          1.2689196289582056
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 125,
+        "NOMBRE": "VILLA JOSEIA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "6603",
+        "ubicacion": "6603 PR 16+000",
+        "SECTOR": " ",
+        "descripcion": "No ha habido requerimientos al respecto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05795315099994,
+          7.120590096767629
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 126,
+        "NOMBRE": "RANCHO CAMACHO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "SC",
+        "ubicacion": "SC K 12+400",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.72128138999994,
+          6.963750059772653
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 127,
+        "NOMBRE": "LA RENTA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "6602",
+        "ubicacion": "6602 K 35+450",
+        "SECTOR": " ",
+        "descripcion": "El concesionario manifestY que se encuentra en espera de la forma de pago para la implementaci1n de las tecnolog2as de recaudo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.33000657999997,
+          7.125680076767452
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 128,
+        "NOMBRE": "LA PAZ",
+        "ENTIDAD": "ANI",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "SC",
+        "ubicacion": "SC K 77+400",
+        "SECTOR": " ",
+        "descripcion": "No ha habido requerimientos al respecto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.41382403999995,
+          7.131251969767296
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 129,
+        "NOMBRE": "LA ANGULA",
+        "ENTIDAD": "ANI",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "6602",
+        "ubicacion": "6602 K 110+700",
+        "SECTOR": " ",
+        "descripcion": "El concesionario ha realizado las acciones para colocar a punto los peajes para la entrada en operacian IPREV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.25605963699996,
+          7.1281465617673865
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 130,
+        "NOMBRE": "CISNEROS",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  1",
+        "SECTOR": " ",
+        "descripcion": "OBSERVACION: Informaci n obtenida del diseNo geom1trico presentado por el contratista; en el capitulo de aspectos generales."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.07477738199998,
+          6.536330314786346
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 131,
+        "NOMBRE": "CIRILO",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "9001",
+        "ubicacion": "9001 PR 18+070",
+        "SECTOR": " ",
+        "descripcion": "No se han recibido observaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.74463644299993,
+          8.212906507732917
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 132,
+        "NOMBRE": "RIO GRANDE",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "   ",
+        "SECTOR": " ",
+        "descripcion": "El concesionario ha manifestado que inicia con IPREV cuando Finalice la Fase de Construccien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.62259697799993,
+          7.940715613741528
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 133,
+        "NOMBRE": "CHAPARRAL",
+        "ENTIDAD": "ANI",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "   ",
+        "SECTOR": " ",
+        "descripcion": "No se han recibido observaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.68055339299997,
+          7.673686663750011
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 134,
+        "NOMBRE": "ARANGUANEY",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "CASANARE",
+        "MUNPIO": " ",
+        "VIA": "6513",
+        "ubicacion": "6513 16",
+        "SECTOR": "Yopal   -  Paz de Ariporo",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.30502163899996,
+          5.410988726822682
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 135,
+        "NOMBRE": "LA GOMEZ",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "6602",
+        "ubicacion": "6602 37",
+        "SECTOR": "Cruce Ruta 45 (La Fortuna) - Lebrija",
+        "descripcion": "Mediante comunicaciones con radicados ANI Nos. 2018-409-072989-2, 2018-409-106546-2 y 2018-409-114843-2, el concesionario ha manifestado que se debe tener en cuenta \"que existe un tribunal de arbitramento entre las partes, en el cual se discute entre otr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54651919599996,
+          7.397175966758826
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 136,
+        "NOMBRE": "PAILITAS",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "CESAR",
+        "MUNPIO": " ",
+        "VIA": "4515",
+        "ubicacion": "4515 28",
+        "SECTOR": "La Mata - San Roque",
+        "descripcion": "Mediante oficio ANI No. 2018-409-074834-2 del 26 de julio de 2018, informa a la Agencia que el costo estimado de la implementaciin del sistema electrtnico asciende a $15.864.708.913, por lo que solicita se le informe la manera de compensacicn de dichas i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.66972216299996,
+          8.85280385371273
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 137,
+        "NOMBRE": "PUERTO TRIUNFO",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "6005",
+        "ubicacion": "6005 129",
+        "SECTOR": "Santuario - Cruce Ruta 45 (Ca4o Alegre)",
+        "descripcion": "No se ha hecho solicitud oficial, no obstante han manifestado que se deben hacer unas inversiones importantes para la adecuacicn del sistema de recaudo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.61139540599999,
+          5.872598913807719
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 138,
+        "NOMBRE": "LOS CUROS",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "45A07",
+        "ubicacion": "45A07 53",
+        "SECTOR": "San Gil - Bucaramanga",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.99948186899996,
+          6.825634366777045
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 139,
+        "NOMBRE": "CARIMAGUA",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "CORDOBA",
+        "MUNPIO": " ",
+        "VIA": "2514",
+        "ubicacion": "2514 26",
+        "SECTOR": "Planeta Rica - La Ye",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48482109599996,
+          8.604856111720531
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 140,
+        "NOMBRE": "RIO BLANCO",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "45A08",
+        "ubicacion": "45A08 51",
+        "SECTOR": "R1o Negro - San Alberto",
+        "descripcion": "No se han recibido observaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.23110811999999,
+          7.554331286753766
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 141,
+        "NOMBRE": "TARAZA",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "2512",
+        "ubicacion": "2512 1",
+        "SECTOR": "TarazQ - Caucasia",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39352519299996,
+          7.589270399752668
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 142,
+        "NOMBRE": "OIBA",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "45A06",
+        "ubicacion": "45A06 62",
+        "SECTOR": "Puente Nacional - San Gil",
+        "descripcion": "No se han recibido observaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.33328956899999,
+          6.178236418797853
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 143,
+        "NOMBRE": "BICENTENARIO",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "5008",
+        "ubicacion": "5008 7",
+        "SECTOR": "Honda - Villeta",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.68461734999994,
+          5.203102935829396
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 144,
+        "NOMBRE": "LOS LLANOS",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "2511",
+        "ubicacion": "2511 3",
+        "SECTOR": "Los Llanos - Taraz",
+        "descripcion": "Inicia cuando termine la Fase de Construccitn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.46814039599997,
+          6.830502480776929
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 145,
+        "NOMBRE": "COCORNA",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "6005",
+        "ubicacion": "6005 3",
+        "SECTOR": "Santuario - Cruce Ruta 45 (CaMo Alegre)",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.24303962799996,
+          6.124607097799618
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 146,
+        "NOMBRE": "CANO",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "NARIAO",
+        "MUNPIO": " ",
+        "VIA": "2502",
+        "ubicacion": "2502 36",
+        "SECTOR": "San Juan de Pasto - Cano",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.28445243599998,
+          1.4254560819530473
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 147,
+        "NOMBRE": "DAZA",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "NARIAO",
+        "MUNPIO": " ",
+        "VIA": "2502",
+        "ubicacion": "2502 14",
+        "SECTOR": "San Juan de Pasto - Cano",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.26949651099994,
+          1.282159376957757
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 148,
+        "NOMBRE": "EL TORO",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "VALLE DEL CAUCA",
+        "MUNPIO": " ",
+        "VIA": "2302",
+        "ubicacion": "2302 106",
+        "SECTOR": "Mediacanoa - Ansermanuevo",
+        "descripcion": "No se han recibido observaciones."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.04953244799998,
+          4.665424976846862
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 149,
+        "NOMBRE": "RIO FRIO",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "VALLE DEL CAUCA",
+        "MUNPIO": " ",
+        "VIA": "2302",
+        "ubicacion": "2302 13",
+        "SECTOR": "Mediacanoa - Ansermanuevo",
+        "descripcion": "\"El Concesionario Autopistas del Sol S.A.S. en sus comunicaciones radicadas en la ANI, Nos. 2018-409-098024-2 y 2018-409-119206-2, manifiesta :\n1. Que la inversidn aproximada es de $8,359,981,604 a precios de 2018 de pesos sin incluir algunos costos entr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.27965618999997,
+          4.1491071678637015
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 150,
+        "NOMBRE": "EL CRUCERO",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "BOYACS",
+        "MUNPIO": " ",
+        "VIA": "6211",
+        "ubicacion": "6211 13",
+        "SECTOR": "Sogamoso - El Crucero",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.92697304599994,
+          5.657014119814689
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 151,
+        "NOMBRE": "SACHICA",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "BOYACS",
+        "MUNPIO": " ",
+        "VIA": "6008",
+        "ubicacion": "6008 50",
+        "SECTOR": "S0chica - Tunja",
+        "descripcion": "No se han recibido observaciones."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.53027037199996,
+          5.584958209817
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 152,
+        "NOMBRE": "SAN DIEGO",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "CESAR",
+        "MUNPIO": " ",
+        "VIA": "4901",
+        "ubicacion": "4901 105",
+        "SECTOR": "San Roque - La Paz",
+        "descripcion": "el concesionario se encuentra en espera de la instruccinn de la Entidad para la implementaci2n de los peajes electr8nicos y su valoracifn para el reintegro de los recursos por parte de la ANI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.23863777499997,
+          10.121725824673172
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 153,
+        "NOMBRE": "GAMARRA",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "CESAR",
+        "MUNPIO": " ",
+        "VIA": "7006",
+        "ubicacion": "7006 2",
+        "SECTOR": "Gamarra - Aguachica",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.69204914099998,
+          8.329119645729213
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 154,
+        "NOMBRE": "ARCABUCO",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "BOYACS",
+        "MUNPIO": " ",
+        "VIA": "6209",
+        "ubicacion": "6209 27",
+        "SECTOR": "Barbosa - Tunja",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.47761993899996,
+          5.795024656810237
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 155,
+        "NOMBRE": "PLATANAL",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "OCAIA",
+        "MUNPIO": " ",
+        "VIA": "7007",
+        "ubicacion": "7007 14",
+        "SECTOR": "Aguaclara - Rao de Oro",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.49857233599994,
+          8.231238329732323
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 156,
+        "NOMBRE": "CERRITOS II",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "RISARALDA",
+        "MUNPIO": " ",
+        "VIA": "2506",
+        "ubicacion": "2506 85",
+        "SECTOR": "La Victoria - Cartago - Cerritos",
+        "descripcion": "Concesionario presentV propuesta econamica mediante radicado ANI 20184091344092, del 20 de diciembre de 2018."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.85996286299996,
+          4.793408208842717
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 157,
+        "NOMBRE": "ZAMBITO",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "4511",
+        "ubicacion": "4511 9",
+        "SECTOR": "R",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.45699183699998,
+          6.294713992794146
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 158,
+        "NOMBRE": "SAN CLEMENTE",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "CALDAS",
+        "MUNPIO": " ",
+        "VIA": "2508",
+        "ubicacion": "2508 17",
+        "SECTOR": "Cauy",
+        "descripcion": "Respuestas del Concesionario:\n1. Radicado ANI No. 20184090859702 de fecha321/08/2018\n2. Radicado ANI No. 20184091334742 de fecha 18/12/2018\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.77560327799995,
+          5.332438493825182
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 159,
+        "NOMBRE": "AGUAS NEGRAS",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "4511",
+        "ubicacion": "4511 83",
+        "SECTOR": "R3o ErmitaAo - La Lizama",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95246215499998,
+          6.645326475782843
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 160,
+        "NOMBRE": "SABOYA",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "BOYACS",
+        "MUNPIO": " ",
+        "VIA": "45A05",
+        "ubicacion": "45A05 66",
+        "SECTOR": "Ubat5 - Puente Nacional",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.74466587899997,
+          5.727864795812417
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 161,
+        "NOMBRE": "RINCO HONDO",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "CESAR",
+        "MUNPIO": " ",
+        "VIA": "4901",
+        "ubicacion": "4901 17",
+        "SECTOR": "San Roque - La Paz",
+        "descripcion": "2018-409-096743-2  del 19/09/2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.47355214799995,
+          9.431032000694637
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 162,
+        "NOMBRE": "EL BORDO",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "CAUCA",
+        "MUNPIO": " ",
+        "VIA": "2503",
+        "ubicacion": "2503 61",
+        "SECTOR": "Mojarras - Popay2n",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.85116468499996,
+          2.188949459927941
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 163,
+        "NOMBRE": "LOBOGUERRERO",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "VALLE DEL CAUCA",
+        "MUNPIO": " ",
+        "VIA": "4001",
+        "ubicacion": "4001 63",
+        "SECTOR": "Cruce Ruta 40 (Loboguerrero) - Buga",
+        "descripcion": "Se realizaron requerimientos por parte del ANI e Interventor9a y el concesionario a la fecha no ha emitido respuesta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.66557059999997,
+          3.7629703208763243
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 164,
+        "NOMBRE": "SAN JUAN",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "GUAJIRA",
+        "MUNPIO": " ",
+        "VIA": "4902",
+        "ubicacion": "4902 61",
+        "SECTOR": "R1o Pereira - Buenavista",
+        "descripcion": "Mediante el rad No. 20184090483882 del 17-5-2018 el Concesionario informa los costos en los que deberi incurrir para dar cumplimiento con la Resolucinn 546 de 2018, manifiesta que los costos estsn por fuera del alcance del contrato de Concesi n por lo qu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.97554032499994,
+          10.800015932652293
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 165,
+        "NOMBRE": "LA NEVERA",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "CASANARE",
+        "MUNPIO": " ",
+        "VIA": "6513",
+        "ubicacion": "6513 34",
+        "SECTOR": "Paz de Ariporo - Yopal",
+        "descripcion": "El concesionario manifest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.20613826599998,
+          5.52491058881898
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 166,
+        "NOMBRE": "CAJAMARCA",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "TOLIMA",
+        "MUNPIO": " ",
+        "VIA": "4003",
+        "ubicacion": "4003 39",
+        "SECTOR": "Calarc",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.50256561299994,
+          4.435821772854334
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 167,
+        "NOMBRE": "CURITÍ",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "45A07",
+        "ubicacion": "45A07 11",
+        "SECTOR": "San Gil - Bucaramanga",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08030866699994,
+          6.617696088783737
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 168,
+        "NOMBRE": "CASABLANCA",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "45A04",
+        "ubicacion": "45A04 40",
+        "SECTOR": "Bogot",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91282774399997,
+          5.104394193832615
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 169,
+        "NOMBRE": "MORRISON",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "OCAIA",
+        "MUNPIO": " ",
+        "VIA": "4514",
+        "ubicacion": "4514 39",
+        "SECTOR": "San Alberto - La Mata",
+        "descripcion": "El Contrato de Concesi1n No 444 de 1994 se encuentra en etapa de reversian con fecha estimada el 03 de agosto de 2019, por lo anterior la implementacinn del Sistema de Recaudo Electrsnico REV deberp ser coordinado con la nueva concesionaria Coviandina -"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56001492199994,
+          8.092348729736695
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 170,
+        "NOMBRE": "ESTAMBUL",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "VALLE DEL CAUCA",
+        "MUNPIO": " ",
+        "VIA": "2505",
+        "ubicacion": "2505 4",
+        "SECTOR": "Cali - Palmira - Buga",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.44302716399994,
+          3.5007221988848847
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 171,
+        "NOMBRE": "TUNÍA",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "CAUCA",
+        "MUNPIO": " ",
+        "VIA": "2504",
+        "ubicacion": "2504 30",
+        "SECTOR": "Popay",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.53681132099996,
+          2.7016901129110753
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 172,
+        "NOMBRE": "CIAT",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "VALLE DEL CAUCA",
+        "MUNPIO": " ",
+        "VIA": "2505",
+        "ubicacion": "2505 16",
+        "SECTOR": "Cali - Palmira - Buga",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.34316372899997,
+          3.5235399828841225
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 173,
+        "NOMBRE": "PASO DE LA TORRE",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "VALLE DEL CAUCA",
+        "MUNPIO": " ",
+        "VIA": "23VL02",
+        "ubicacion": "23VL02 26",
+        "SECTOR": "Paso de La Torre - Siberia (Variante Yumbo)",
+        "descripcion": "Segan comunicacirn 20184091306462 de 12/12/2018 el Concesionario manifiesta: Teniendo en cuenta los tiempos y obligaciones impuestas por la Resolucicn No. 546 de 2018 a los\nConcesionarios con relaci n a la implementaciln del sistema de Interoperabilidad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.45767028899996,
+          3.6275982288807365
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 174,
+        "NOMBRE": "CENCAR",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "VALLE DEL CAUCA",
+        "MUNPIO": " ",
+        "VIA": "2301",
+        "ubicacion": "2301 0",
+        "SECTOR": "Cali - Yumbo",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.46257072699996,
+          3.5573834778829965
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 175,
+        "NOMBRE": "EL CERRITO",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "VALLE DEL CAUCA",
+        "MUNPIO": " ",
+        "VIA": "2505",
+        "ubicacion": "2505 44",
+        "SECTOR": "Cali - Palmira - Buga",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.31916130899998,
+          3.7130961568779344
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 176,
+        "NOMBRE": "MEDIACANOA",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "VALLE DEL CAUCA",
+        "MUNPIO": " ",
+        "VIA": "2301",
+        "ubicacion": "2301 51",
+        "SECTOR": "Yumbo - Mediacanoa",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.41138629499994,
+          3.7599859328764054
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 177,
+        "NOMBRE": "VILLA RICA",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "CAUCA",
+        "MUNPIO": " ",
+        "VIA": "2504",
+        "ubicacion": "2504 89",
+        "SECTOR": "Popay",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.46003183399995,
+          3.151233081896315
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 178,
+        "NOMBRE": "ROZO",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "VALLE DEL CAUCA",
+        "MUNPIO": " ",
+        "VIA": "2505B",
+        "ubicacion": "2505B 0",
+        "SECTOR": "Palmaseca - El Cerrito",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.38115644299995,
+          3.6438522088801935
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 179,
+        "NOMBRE": "RIO SECO",
+        "ENTIDAD": "INVIAS",
+        "DEPTO": "CESAR",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "   ",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.11547560699995,
+          10.66853882965631
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 180,
+        "NOMBRE": "CORRALITO DE PIEDRA",
+        "ENTIDAD": "DISTRITO",
+        "DEPTO": "BOLTVAR",
+        "MUNPIO": " ",
+        "VIA": "90BLB",
+        "ubicacion": "90BLB 26",
+        "SECTOR": "V6a a Bar",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48508678499996,
+          10.309658710667367
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 181,
+        "NOMBRE": "TRAPICHE",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "2510",
+        "ubicacion": "2510 0",
+        "SECTOR": "MedellUn - Hoyo Rico",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.43301627699998,
+          6.399637272790756
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 182,
+        "NOMBRE": "EBÉJICO",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "Puente AurrO - Medell",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67134453599994,
+          6.338603340792729
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 183,
+        "NOMBRE": "PANDEQUESO",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "2510",
+        "ubicacion": "2510 0",
+        "SECTOR": "MedellUn - Hoyo Rico",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.37861015399994,
+          6.477997755788212
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 184,
+        "NOMBRE": "TASAJERA",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "MAGDALENA",
+        "MUNPIO": " ",
+        "VIA": "9007",
+        "ubicacion": "9007 50",
+        "SECTOR": "Barranquilla - Santa Marta",
+        "descripcion": "Respuestas del Concesionario:\n1. Radicado ANI No. 20184090859702 de fechan21/08/2018\n2. Radicado ANI No. 20184091334742 de fecha 18/12/2018\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.33666433199994,
+          10.977188151646859
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 185,
+        "NOMBRE": "LAUREANO GÓMEZ",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "MAGDALENA",
+        "MUNPIO": " ",
+        "VIA": "9007",
+        "ubicacion": "9007 5",
+        "SECTOR": "Barranquilla - Santa Marta",
+        "descripcion": "El concesionario ha realizado las acciones para colocar a punto los peajes para la entrada en operaciNn IPREV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.72971897899998,
+          10.978719173646807
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 186,
+        "NOMBRE": "CABILDO",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "0",
+        "ubicacion": "0 0",
+        "SECTOR": "Girardota - Hatillo",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.42366143499999,
+          6.395796514790854
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 187,
+        "NOMBRE": "VARIANTE PALMAS",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "Las Palmas - Aeropuerto",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.47889079799995,
+          6.170653886798141
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 188,
+        "NOMBRE": "SANTA ELENA",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "0",
+        "ubicacion": "0 0",
+        "SECTOR": "V",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.46135699599995,
+          6.179659295797849
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 189,
+        "NOMBRE": "CEBALLOS",
+        "ENTIDAD": "DISTRITO",
+        "DEPTO": "BOLTVAR",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "Corredor de Carga",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.50592218199995,
+          10.383016104665076
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 190,
+        "NOMBRE": "BAZURTO  (MANGA)",
+        "ENTIDAD": "CONVIAL",
+        "DEPTO": "BOLVVAR",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "Calle 29",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.52654658799997,
+          10.406785049664375
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 191,
+        "NOMBRE": "RAMAL",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "Variante Soacha - La Mesa",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.28997542899998,
+          4.627331187848081
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 192,
+        "NOMBRE": "MONDOÑEDO",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "La Mesa - Mosquera",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.29408444799998,
+          4.638348461847762
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 193,
+        "NOMBRE": "SAN PEDRO",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": "4702",
+        "ubicacion": "4702 14",
+        "SECTOR": "La Mesa - Anapoima",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.48647416999995,
+          4.593993101849211
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 194,
+        "NOMBRE": "PEAJE NUEVO SALTO DE TEQUENDAMA",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "El Colegio - El Charquito",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.26847024099999,
+          4.544131495850795
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 195,
+        "NOMBRE": "SAN MIGUEL",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "FusagasugR - Sibatd",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.30188939099997,
+          4.4441646588540475
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 196,
+        "NOMBRE": "URIBIA",
+        "ENTIDAD": "MUNICIPIO",
+        "DEPTO": "GUAJIRA",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "Cuatrovias - Uribia",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.32187624099998,
+          11.606513782627674
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 197,
+        "NOMBRE": "LOS SANTOS",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "Piedecuesta - Los Santos",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.03420731899996,
+          6.917377913774131
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 198,
+        "NOMBRE": "JALISCO",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "Sasaima - AlbSn",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.42616786599996,
+          4.901355702839178
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 199,
+        "NOMBRE": "PAJARITO",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "MedellUn - San Pedro",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59936863599995,
+          6.3318020497929
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 200,
+        "NOMBRE": "LA ESTRELLA",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "CALDAS",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "Manizales - Neira",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.50528033199998,
+          5.125518509831924
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 201,
+        "NOMBRE": "LA HEROICA",
+        "ENTIDAD": "DISTRITO",
+        "DEPTO": "BOLTVAR",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "Variante Mamonal - Gambote",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.49062114199995,
+          10.342343513666352
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 202,
+        "NOMBRE": "LA TEBAIDA",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "Funza - Cota",
+        "descripcion": "Es una obligaci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17147724299997,
+          4.744624342844293
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 203,
+        "NOMBRE": "PUBENZA",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "Girardot - Tocaima",
+        "descripcion": "No se han recibido observaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.73146434099993,
+          4.4033163898553935
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 204,
+        "NOMBRE": "BETANIA",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "VALLE DEL CAUCA",
+        "MUNPIO": " ",
+        "VIA": "25505",
+        "ubicacion": "25505 78",
+        "SECTOR": "Buga - AndalucAa",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.25338315999994,
+          3.97204071886948
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 205,
+        "NOMBRE": "QUIEBRA DE VELEZ",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "CALDAS",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "Tres Puertas - Quiebra de Vulez - Manizales",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55537446799997,
+          5.094251145832916
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 206,
+        "NOMBRE": "GUAYABAL",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "CUNDINAMARCA",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "Guayabal de Sequima - Cambao",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.48318539999997,
+          4.883413075839793
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 207,
+        "NOMBRE": "NIQUÍA",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": "2510",
+        "ubicacion": "2510 0",
+        "SECTOR": "MedellUn - Hoyo Rico",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.52659550699997,
+          6.3451007497924845
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 208,
+        "NOMBRE": "LA URIBE",
+        "ENTIDAD": "DEPARTAMENTO",
+        "DEPTO": "VALLE DEL CAUCA",
+        "MUNPIO": " ",
+        "VIA": "2506",
+        "ubicacion": "2506 12",
+        "SECTOR": "AndalucEa - La Paila -La Victoria",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.11843753299996,
+          4.252468250860306
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 209,
+        "NOMBRE": "CORREDOR PORTUARIO",
+        "ENTIDAD": "DISTRITO",
+        "DEPTO": "ATLTNTICO",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "  0",
+        "SECTOR": "Calle 6",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.76675940399997,
+          10.957823863647432
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 210,
+        "NOMBRE": "RÍONEGRO",
+        "ENTIDAD": "EDISAN",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "45A08",
+        "ubicacion": "45A08 13",
+        "SECTOR": "La cemento - Rionegro",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14940377699997,
+          7.24326752576373
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 211,
+        "NOMBRE": "LEBRIJA",
+        "ENTIDAD": "EDISAN",
+        "DEPTO": "SANTANDER",
+        "MUNPIO": " ",
+        "VIA": "6602",
+        "ubicacion": "6602 64",
+        "SECTOR": "Lebrija - Palenque",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.18861159799997,
+          7.103127116768186
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 212,
+        "NOMBRE": "Sajonia",
+        "ENTIDAD": "DPTO",
+        "DEPTO": "ANTIOQUIA",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "   ",
+        "SECTOR": " ",
+        "descripcion": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45308899399998,
+          6.179528445797848
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "FID": 213,
+        "NOMBRE": "Seminario",
+        "ENTIDAD": "DPTO",
+        "DEPTO": "Antioquia",
+        "MUNPIO": " ",
+        "VIA": " ",
+        "ubicacion": "   ",
+        "SECTOR": " ",
+        "descripcion": "N.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.53392477999995,
+          6.223175415796443
+        ]
+      },
+      "type": "Feature"
+    }
+  ]
+}

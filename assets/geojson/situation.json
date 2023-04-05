@@ -1,0 +1,8479 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0543671,
+					4.706799
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T06:31:35+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0784302,
+					4.652504
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-19T04:31:36+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1161118,
+					4.7517896
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-14T21:31:36+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1390533,
+					4.5624738
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-27T07:31:36+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0676804,
+					4.6385818
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-25T18:31:36+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.13591,
+					4.6594796
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-14T19:31:37+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0734787,
+					4.6406078
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-21T09:31:37+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0668182,
+					4.7342029
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-25T22:31:37+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1957932,
+					4.629106
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-17T14:31:37+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0503311,
+					4.7301612
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-23T14:31:37+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0786896,
+					4.6227422
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-21T20:31:38+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1030731,
+					4.6541972
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-28T18:31:38+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0647507,
+					4.6500039
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-17T09:31:38+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0516129,
+					4.7192078
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T18:31:38+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0863342,
+					4.6205883
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T12:31:39+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1396103,
+					4.5730362
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-26T20:31:39+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1384048,
+					4.5674124
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-27T06:31:40+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1957932,
+					4.629106
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-26T16:31:40+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1355591,
+					4.7041559
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T03:31:40+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1089706,
+					4.6528096
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-22T08:31:40+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1079407,
+					4.7452235
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T21:31:40+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1362686,
+					4.6100044
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T06:31:40+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.167244,
+					4.6310186
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-22T23:31:40+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1024246,
+					4.4996414
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-22T19:31:40+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1177216,
+					4.7165895
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-21T01:31:40+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1919022,
+					4.599462
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-05T19:31:41+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1192474,
+					4.6788974
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-22T01:31:41+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0960312,
+					4.5847397
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-29T21:31:41+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0503311,
+					4.7301612
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T14:31:41+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1257019,
+					4.7268186
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-10T23:31:41+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1345596,
+					4.6503606
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-19T17:31:41+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0668182,
+					4.7342029
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-24T22:31:41+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0996094,
+					4.5829763
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-28T09:31:41+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1267395,
+					4.6486559
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-27T08:31:41+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0320892,
+					4.7280917
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-19T10:31:42+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1345596,
+					4.6503606
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-04T02:31:42+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0710297,
+					4.726059
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-15T00:31:42+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1109772,
+					4.6220675
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-09T23:31:42+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1275864,
+					4.6143045
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-29T10:31:42+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.052742,
+					4.7239094
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-08T10:31:42+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0853806,
+					4.7353702
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-01T23:31:42+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0975037,
+					4.6891217
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-22T08:31:43+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1150284,
+					4.7219439
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-04T20:31:43+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0528259,
+					4.7120991
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-31T21:31:43+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0811386,
+					4.5947304
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-25T21:31:43+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0969925,
+					4.7491565
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-26T06:31:43+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0471039,
+					4.7236977
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-15T04:31:43+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.074173,
+					4.6170826
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-10T07:31:43+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0876007,
+					4.6950974
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-25T00:31:43+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0911636,
+					4.6962681
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-23T01:31:43+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0373001,
+					4.7492037
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-14T23:31:44+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0789795,
+					4.6244869
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-24T18:31:44+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1163712,
+					4.6732135
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-29T16:31:44+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0288315,
+					4.7172604
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-17T04:31:44+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.073822,
+					4.7388134
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-22T22:31:44+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1369629,
+					4.574224
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-13T19:31:44+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1357346,
+					4.6597981
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-11T20:31:44+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0939178,
+					4.6847382
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-16T11:31:44+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0758133,
+					4.6864686
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-20T02:31:44+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1429749,
+					4.5647202
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-05T00:31:45+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1108322,
+					4.7415605
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-23T06:31:45+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0849991,
+					4.6967535
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-23T11:31:45+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0876007,
+					4.6950974
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T04:31:45+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.189537,
+					4.6228752
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-27T21:31:45+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1241455,
+					4.6515198
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-05T00:31:45+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1376419,
+					4.6308074
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-16T00:31:45+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1323242,
+					4.6797824
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-13T16:31:45+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1112366,
+					4.6663446
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-22T05:31:46+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1156616,
+					4.6400709
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-01T09:31:46+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0996094,
+					4.5829763
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-25T20:31:46+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0467834,
+					4.7471571
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T21:31:46+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.142952,
+					4.6533189
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-01T00:31:46+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1323242,
+					4.6797824
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-31T22:31:46+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0786896,
+					4.6227422
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-23T22:31:46+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1604538,
+					4.5958357
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-19T21:31:46+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0945206,
+					4.7100916
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-11T17:31:47+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0876007,
+					4.6950974
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-26T17:31:47+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0740814,
+					4.6879215
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-03T01:31:47+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.131012,
+					4.6816998
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-06T08:31:47+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1369629,
+					4.574224
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-22T03:31:47+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.169342,
+					4.6242948
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-10T16:31:47+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0979462,
+					4.6832647
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-27T03:31:47+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0816727,
+					4.7364297
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-01T00:31:47+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.129303,
+					4.6094718
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-29T22:31:47+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.052742,
+					4.7239094
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-10T00:31:47+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1000214,
+					4.7114196
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-08T04:31:48+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0320892,
+					4.7280917
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-08T00:31:48+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1057968,
+					4.6960673
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-10T15:31:48+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0547791,
+					4.6999426
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-26T00:31:48+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0811081,
+					4.6272588
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T00:31:48+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0373001,
+					4.7492037
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-01T02:31:48+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0759735,
+					4.6635175
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-23T20:31:49+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1376419,
+					4.6308074
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-16T05:31:49+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.9562607,
+					4.7746396
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-25T02:31:49+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.155983,
+					4.6405725
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-08T07:31:49+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1157608,
+					4.5137653
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-26T06:31:49+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.074707,
+					4.7376699
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T17:31:49+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0465317,
+					4.7492499
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-15T02:31:49+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.105835,
+					4.6723719
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-01T03:31:49+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1150284,
+					4.7219439
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-06T13:31:49+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1177216,
+					4.7165895
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-23T09:31:50+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1157761,
+					4.6397314
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-29T14:31:50+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0315018,
+					4.6968231
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-05T12:31:50+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1018906,
+					4.602056
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-22T06:31:50+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0878754,
+					4.6738276
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-17T00:31:50+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0683441,
+					4.6952777
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T02:31:50+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0474701,
+					4.7431369
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-29T11:31:51+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0960312,
+					4.5847397
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-03T05:31:51+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1212006,
+					4.7216249
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-21T06:31:51+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0756683,
+					4.7380586
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-28T03:31:51+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0288315,
+					4.715343
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-26T07:31:51+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1384048,
+					4.5674124
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-02T11:31:51+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1331406,
+					4.6627221
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-10T20:31:51+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1656036,
+					4.6320996
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-24T16:31:51+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.093544,
+					4.574923
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-30T18:31:51+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0998917,
+					4.7357278
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-09T05:31:52+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1563339,
+					4.6405516
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T20:31:52+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1216278,
+					4.6393147
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-25T12:31:52+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0811386,
+					4.5947304
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-20T14:31:52+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0528259,
+					4.7120991
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-27T11:31:52+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.116951,
+					4.6747022
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-23T00:31:52+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0760465,
+					4.5981248
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-05T00:31:52+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1746521,
+					4.6144934
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-23T10:31:53+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.158577,
+					4.5752492
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-10T04:31:53+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0684814,
+					4.6278958
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-27T10:31:53+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1712952,
+					4.6289887
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-26T09:31:53+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0320892,
+					4.7280917
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-21T16:31:53+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0586929,
+					4.6837106
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-03T09:31:53+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0801697,
+					4.7098517
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-26T20:31:53+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1107788,
+					4.5777502
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-28T18:31:53+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0792847,
+					4.6391869
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-21T08:31:53+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1528931,
+					4.6741672
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T05:31:53+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0668182,
+					4.7342029
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-12T16:31:53+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.189537,
+					4.6228752
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-26T14:31:54+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0969086,
+					4.6683803
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T13:31:54+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1341248,
+					4.6015429
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-26T07:31:54+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1355667,
+					4.6140194
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-22T00:31:54+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0760465,
+					4.5981248
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-25T22:31:54+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0533142,
+					4.6530695
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-22T00:31:54+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1619339,
+					4.5956593
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-03T23:31:54+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1008835,
+					4.7299972
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-24T19:31:54+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1712952,
+					4.6289887
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T16:31:54+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1197815,
+					4.6800275
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-18T08:31:55+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0734406,
+					4.7235661
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-26T19:31:55+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.073822,
+					4.7388134
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-18T06:31:55+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.167244,
+					4.6310186
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-03T22:31:55+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.083725,
+					4.5980659
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-30T06:31:55+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0373001,
+					4.7492037
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-10T06:31:55+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1008835,
+					4.7299972
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-23T14:31:55+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0944824,
+					4.6211343
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-14T15:31:55+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0657578,
+					4.6441016
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-30T23:31:55+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1656036,
+					4.6320996
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-22T03:31:56+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1030731,
+					4.6541972
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-19T19:31:56+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0811081,
+					4.6272588
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T08:31:56+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1239395,
+					4.6242585
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-08T13:31:56+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0288315,
+					4.7172604
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-22T19:31:56+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1203079,
+					4.6286831
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-19T15:31:57+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1251526,
+					4.5640998
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-08T15:31:57+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1630249,
+					4.6346202
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T09:31:57+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.2038498,
+					4.6221929
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-27T20:31:57+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0373001,
+					4.7492037
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-06T04:31:57+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0655975,
+					4.6890173
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-20T09:31:57+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.067482,
+					4.6737599
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T23:31:57+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1137772,
+					4.5832639
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-15T09:31:57+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0883408,
+					4.674633
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-06T06:31:57+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1355667,
+					4.6140194
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-09T17:31:58+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1150284,
+					4.7219439
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-03T19:31:58+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1558075,
+					4.640203
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-04T18:31:58+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0744858,
+					4.65131
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T15:31:58+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0438995,
+					4.6975374
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-31T01:31:58+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1005096,
+					4.7315121
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-09T03:31:58+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1940918,
+					4.6291261
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-25T03:31:58+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0850983,
+					4.678679
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-27T21:31:58+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0979462,
+					4.6832647
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-01T18:31:59+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0878754,
+					4.6738276
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-03T01:31:59+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1772537,
+					4.5968051
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-26T09:31:59+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1210403,
+					4.5456834
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-02T02:31:59+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0939178,
+					4.6847382
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-27T06:31:59+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1558533,
+					4.6817799
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-12T21:31:59+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0744858,
+					4.65131
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-29T02:31:59+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1061783,
+					4.6718459
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-18T03:31:59+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1230164,
+					4.5937281
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-01T23:31:59+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0910873,
+					4.6965604
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-15T16:31:59+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1064758,
+					4.5985875
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-20T05:31:59+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.13591,
+					4.6594796
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-30T15:32:00+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0704727,
+					4.5856552
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T04:32:00+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1558075,
+					4.640203
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-26T01:32:00+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1376648,
+					4.5412178
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-25T06:32:00+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0801697,
+					4.7098517
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-16T08:32:00+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0945663,
+					4.7098999
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-26T20:32:00+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1116028,
+					4.6665444
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-11T19:32:00+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0756683,
+					4.7380586
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T22:32:01+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0777359,
+					4.684536
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-31T16:32:01+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1289062,
+					4.6293764
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-22T00:32:01+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0813065,
+					4.7249947
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-23T09:32:01+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1030731,
+					4.6541972
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-17T00:32:01+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0744858,
+					4.65131
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-27T00:32:01+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0996094,
+					4.5829763
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-14T22:32:01+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0776901,
+					4.6655402
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-15T04:32:01+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0734406,
+					4.7235661
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-04T11:32:01+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1239319,
+					4.6247854
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T13:32:01+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0863342,
+					4.6205883
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-24T17:32:02+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0811386,
+					4.5947304
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T02:32:02+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1845551,
+					4.621244
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-14T18:32:02+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0739899,
+					4.6879082
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-25T03:32:02+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.087204,
+					4.6962409
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T00:32:02+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0998917,
+					4.7357278
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-24T10:32:02+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1612549,
+					4.5885897
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-17T19:32:03+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1515274,
+					4.6378937
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-20T08:32:03+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1075058,
+					4.6928449
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-03T20:32:03+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0802536,
+					4.73527
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-19T04:32:03+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1246567,
+					4.7261281
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-25T00:32:03+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1107788,
+					4.5777502
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T17:32:04+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0758133,
+					4.6864686
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-11T12:32:04+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1157761,
+					4.6397314
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-31T20:32:04+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1475525,
+					4.6330881
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-08T01:32:04+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1362686,
+					4.6100044
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-25T05:32:04+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0760465,
+					4.5981248
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-04T12:32:04+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1707382,
+					4.6174645
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-23T21:32:04+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1263046,
+					4.595551
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-13T15:32:04+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1137772,
+					4.5832639
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-28T03:32:04+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1390762,
+					4.6328235
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T07:32:04+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1136093,
+					4.7115459
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-20T20:32:04+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0910873,
+					4.6965604
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-30T02:32:05+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1604538,
+					4.5958357
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-29T00:32:05+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1560364,
+					4.6539512
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-01T23:32:05+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1116028,
+					4.6665444
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-25T00:32:05+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1329651,
+					4.6199613
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-10T16:32:05+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0618057,
+					4.6592393
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T05:32:05+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1357346,
+					4.6597981
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-14T03:32:05+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1714401,
+					4.596168
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-28T21:32:05+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0756683,
+					4.7380586
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-26T12:32:05+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1384048,
+					4.5674124
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-25T11:32:05+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0498657,
+					4.7287564
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-09T01:32:05+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0710297,
+					4.726059
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-29T09:32:05+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1241989,
+					4.5705142
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-12T06:32:06+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.129303,
+					4.6094718
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-17T14:32:06+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0931625,
+					4.5742998
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-05T11:32:06+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0668182,
+					4.7342029
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-04T15:32:06+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.073822,
+					4.7388134
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-20T21:32:06+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1512146,
+					4.6530371
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-09T23:32:06+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1075058,
+					4.6928449
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-11T22:32:06+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0958099,
+					4.6109915
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-05T04:32:07+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0970154,
+					4.7124357
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-26T20:32:07+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1440964,
+					4.6706395
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-21T14:32:07+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0813065,
+					4.7249947
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-25T22:32:07+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1024246,
+					4.4996414
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-06T17:32:07+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0597534,
+					4.6336603
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-06T21:32:07+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0657578,
+					4.6441016
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-22T15:32:07+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1241455,
+					4.6515198
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-18T10:32:07+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1472244,
+					4.6488676
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T22:32:07+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1131287,
+					4.6278
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-05T21:32:08+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0288315,
+					4.715343
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-05T07:32:08+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0511475,
+					4.7241445
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-25T17:32:08+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0863342,
+					4.6205883
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-05T05:32:08+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1108322,
+					4.7415605
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-19T10:32:08+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1558075,
+					4.640203
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-02T22:32:08+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0537186,
+					4.6858964
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-03T10:32:08+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.152832,
+					4.6740341
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-11T09:32:08+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1845551,
+					4.621244
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-05T15:32:08+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1136093,
+					4.7115459
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-02T19:32:08+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1000214,
+					4.7114196
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-18T02:32:08+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1172867,
+					4.5999246
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-23T13:32:09+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1429749,
+					4.5647202
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-21T08:32:09+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0969925,
+					4.7491565
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-02T16:32:09+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.074707,
+					4.7376699
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-15T12:32:09+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1355667,
+					4.6140194
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-05T23:32:09+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0435638,
+					4.6716871
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-01T20:32:09+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0744858,
+					4.65131
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-04T19:32:10+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0760465,
+					4.5981248
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-24T16:32:10+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1919022,
+					4.599462
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-27T05:32:10+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.155983,
+					4.6405725
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-25T04:32:10+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0792847,
+					4.6391869
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-14T00:32:10+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1707382,
+					4.6174645
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-18T18:32:10+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.026062,
+					4.7227149
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-03T01:32:10+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1656036,
+					4.6320996
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T22:32:10+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1223831,
+					4.6288004
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-30T19:32:11+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0998917,
+					4.7357278
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-02T08:32:11+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1246567,
+					4.7261281
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-12T06:32:11+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.099968,
+					4.735918
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-03T12:32:11+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0268021,
+					4.7289176
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-27T12:32:11+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0516129,
+					4.7192078
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-25T09:32:11+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1604538,
+					4.5958357
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-08T18:32:12+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0800323,
+					4.6709757
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T03:32:12+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1267395,
+					4.6486559
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T17:32:12+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.2038498,
+					4.6221929
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-29T12:32:12+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1210403,
+					4.5456834
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-25T04:32:12+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1289062,
+					4.6293764
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-22T02:32:12+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0966492,
+					4.584722
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-12T18:32:12+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0522842,
+					4.7155409
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-29T11:32:12+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.167244,
+					4.6310186
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T03:32:13+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0780258,
+					4.6522536
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-16T11:32:13+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0739899,
+					4.6879082
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-20T12:32:13+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1330872,
+					4.7039466
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-23T00:32:13+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1257019,
+					4.7268186
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-25T03:32:13+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0945206,
+					4.7100916
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-26T13:32:13+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1239395,
+					4.6242585
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-24T04:32:13+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0657578,
+					4.6441016
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-22T19:32:13+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1835632,
+					4.6287513
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-12T03:32:14+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1549759,
+					4.6419148
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T11:32:14+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1223831,
+					4.6288004
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-11T18:32:14+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.092865,
+					4.717061
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-12T17:32:14+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.189537,
+					4.6228752
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-18T14:32:14+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0877457,
+					4.7523899
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-13T17:32:14+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1786423,
+					4.5970583
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-09T12:32:14+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.129303,
+					4.6094718
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-23T08:32:14+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1210403,
+					4.5456834
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-26T09:32:14+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0644836,
+					4.708889
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-02T14:32:15+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0438995,
+					4.6975374
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-13T18:32:15+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1528931,
+					4.6741672
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-17T14:32:15+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.114357,
+					4.6842499
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-30T21:32:15+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0737457,
+					4.6879911
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-27T16:32:15+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1345596,
+					4.6503606
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-22T21:32:15+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0802536,
+					4.73527
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-14T08:32:16+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0373001,
+					4.7492037
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-23T23:32:16+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.143486,
+					4.6512375
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T00:32:16+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0734406,
+					4.7235661
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-03T14:32:16+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1746521,
+					4.6144934
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-21T01:32:16+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1707382,
+					4.6174645
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-19T17:32:16+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1535873,
+					4.5960984
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T14:32:16+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1130524,
+					4.6700249
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-28T09:32:16+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1257019,
+					4.7268186
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-31T16:32:17+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1712952,
+					4.6289887
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-29T20:32:17+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1341248,
+					4.6015429
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T00:32:17+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0780258,
+					4.6522536
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-10T16:32:17+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0924377,
+					4.7177763
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T02:32:17+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1746521,
+					4.6144934
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-10T21:32:17+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1707382,
+					4.6174645
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-23T17:32:17+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1463165,
+					4.5949335
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-21T21:32:17+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0615463,
+					4.6606879
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-04T00:32:17+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0878754,
+					4.6738276
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-31T11:32:18+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1136093,
+					4.7115459
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-20T02:32:18+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0853806,
+					4.7353702
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-13T21:32:18+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1018906,
+					4.602056
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-24T17:32:18+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0958099,
+					4.6109915
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-10T02:32:18+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0958099,
+					4.6109915
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-08T01:32:18+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1395645,
+					4.6562386
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-02T07:32:19+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0516129,
+					4.7192078
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-21T19:32:19+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1057968,
+					4.6960673
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-29T10:32:19+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0996094,
+					4.5829763
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-10T18:32:19+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0565338,
+					4.7176576
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-02T23:32:20+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1212006,
+					4.7216249
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-09T11:32:20+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.078064,
+					4.6027088
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-10T12:32:20+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0413513,
+					4.7236819
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-21T20:32:20+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.169342,
+					4.6242948
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-05T05:32:20+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1075058,
+					4.6928449
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-08T13:32:20+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1604538,
+					4.5958357
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-26T18:32:20+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0497208,
+					4.7062087
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-03T00:32:20+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1054764,
+					4.6728754
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-23T15:32:20+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1057968,
+					4.6960673
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-29T23:32:20+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1355591,
+					4.7041559
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-10T23:32:20+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1345596,
+					4.6503606
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-25T06:32:21+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1630249,
+					4.6154246
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-23T00:32:21+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1410599,
+					4.5541787
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T22:32:21+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.158577,
+					4.5752492
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-22T09:32:21+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1456146,
+					4.6314597
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-10T10:32:21+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0966492,
+					4.584722
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-01T09:32:21+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0739517,
+					4.6110282
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-28T18:32:21+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0684814,
+					4.6278958
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-20T09:32:21+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1363144,
+					4.611341
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-24T00:32:21+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0734787,
+					4.6406078
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-06T11:32:22+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1622772,
+					4.6888232
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-05T15:32:22+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1772537,
+					4.5968051
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-25T20:32:22+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0760465,
+					4.5981248
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-24T12:32:22+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.105835,
+					4.6723719
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T00:32:22+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1201553,
+					4.6808023
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-06T00:32:22+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0533142,
+					4.6530695
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-28T21:32:23+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0467606,
+					4.7472119
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-31T08:32:23+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0969391,
+					4.7463918
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-08T20:32:23+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0849991,
+					4.6967535
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-19T10:32:23+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0526047,
+					4.716403
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-19T19:32:23+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0810547,
+					4.6271019
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-27T00:32:24+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1558075,
+					4.640203
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-15T04:32:24+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1344528,
+					4.6578803
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-05T06:32:24+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1512146,
+					4.6530371
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-22T12:32:24+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0373001,
+					4.7492037
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-14T05:32:24+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1203079,
+					4.6286831
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-30T08:32:24+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1239395,
+					4.6242585
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-05T20:32:24+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0801697,
+					4.7098517
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-20T21:32:24+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0511475,
+					4.7241445
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-15T18:32:25+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0647507,
+					4.6500039
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-26T07:32:25+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1061783,
+					4.6718459
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-25T05:32:25+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1957932,
+					4.629106
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-23T08:32:25+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1109772,
+					4.6220675
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-24T13:32:25+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0777359,
+					4.684536
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-28T08:32:25+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1512146,
+					4.6530371
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-12T15:32:25+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0969086,
+					4.6683803
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-08T07:32:25+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1257019,
+					4.7268186
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-11T05:32:25+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0801697,
+					4.7098517
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-15T04:32:26+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1576309,
+					4.6163568
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-20T08:32:26+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1150284,
+					4.7219439
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-14T01:32:26+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1059036,
+					4.7088556
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-17T14:32:26+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0776901,
+					4.6655402
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-31T05:32:26+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1275864,
+					4.6143045
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-21T10:32:26+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0966492,
+					4.584722
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-13T23:32:26+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1512146,
+					4.6379113
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-09T22:32:27+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1357346,
+					4.6597981
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-23T05:32:27+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1344528,
+					4.6578803
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-24T19:32:27+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1157608,
+					4.5137653
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-16T06:32:27+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.158577,
+					4.5752492
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T16:32:27+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0565338,
+					4.7176576
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-20T11:32:27+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.052742,
+					4.7239094
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-24T15:32:28+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0815964,
+					4.5947337
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-31T08:32:28+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0982666,
+					4.605823
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-24T12:32:28+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0241623,
+					4.7295079
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-21T17:32:28+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1622772,
+					4.6888232
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-07T02:32:28+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1079407,
+					4.7452235
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-29T00:32:28+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0467606,
+					4.7472119
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-18T20:32:28+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1774216,
+					4.5967684
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-31T05:32:29+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1136093,
+					4.7115459
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-27T06:32:29+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1079407,
+					4.7452235
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-25T11:32:29+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1005096,
+					4.7315121
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-23T05:32:29+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1040649,
+					4.6042919
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-08T19:32:29+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0939178,
+					4.6847382
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-17T06:32:29+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1622772,
+					4.6888232
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-15T22:32:29+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1079407,
+					4.7452235
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-27T01:32:29+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.128212,
+					4.6482935
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-14T08:32:30+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0811081,
+					4.6272588
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-14T11:32:30+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1329651,
+					4.6199613
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-22T05:32:30+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0526047,
+					4.716403
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-26T13:32:30+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1108322,
+					4.7415605
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-08T18:32:30+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1054764,
+					4.6728754
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-20T17:32:30+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0878754,
+					4.6738276
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-23T06:32:30+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.099144,
+					4.6591573
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-25T08:32:30+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1840057,
+					4.6372762
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-25T03:32:30+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1083603,
+					4.6256843
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-24T11:32:31+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1533813,
+					4.643167
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-21T20:32:31+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1558075,
+					4.640203
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-04T00:32:31+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1558075,
+					4.640203
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-16T03:32:31+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1079407,
+					4.7452235
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-25T20:32:31+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0533142,
+					4.6530695
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-23T00:32:31+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.189537,
+					4.6228752
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-02T21:32:31+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.152771,
+					4.6171656
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-30T01:32:31+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1375427,
+					4.5552821
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-23T09:32:31+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0740814,
+					4.6879215
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-14T13:32:32+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0739899,
+					4.6879082
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-26T17:32:32+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.0786896,
+					4.6227422
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-24T07:32:32+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1560364,
+					4.6539512
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-26T15:32:32+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1363144,
+					4.611341
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-13T08:32:32+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1702042,
+					4.6345382
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-04T09:32:32+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1330872,
+					4.7039466
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-10T21:32:32+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.2038498,
+					4.6221929
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-02T19:32:32+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1212006,
+					4.7216249
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-22T23:32:32+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1275864,
+					4.6143045
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-11-19T13:32:33+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.074707,
+					4.7376699
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-31T07:32:33+05:00"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.1840057,
+					4.6372762
+				]
+			},
+			"properties": {
+				"SituationType": "Obstrucción General",
+				"type": "situationGeneralObstruction",
+				"CodeDeparment": "05",
+				"CodeCity": "05001",
+				"CodeRoad": "90",
+				"SubType": "Incidente",
+				"SituationDate": "2021-10-28T20:32:33+05:00"
+			}
+		}
+	]
+}
