@@ -29,6 +29,7 @@ class GoogleMapPage extends StatelessWidget {
               splashRadius: 1,
               splashColor: HexColor("#242C40"),
               onPressed: () {
+                _controller.clear();
                 Get.offAllNamed(AppRoutes.HOME);
               },
               icon: const Icon(Icons.close),
@@ -38,10 +39,8 @@ class GoogleMapPage extends StatelessWidget {
         drawer: CustomDrawer(),
         body: Stack(
           children: [
-            Obx(
-              () => _controller.isLoadin.value == true
-                  ? buildLoadingScreen()
-                  : SizedBox(
+            ObxValue(
+                (p0) => SizedBox(
                       height: size.height,
                       width: size.width,
                       child: GoogleMap(
@@ -54,7 +53,10 @@ class GoogleMapPage extends StatelessWidget {
                         onMapCreated: (GoogleMapController mapController) {},
                       ),
                     ),
-            ),
+                _controller.marker),
+            Obx(() => _controller.isLoading.value == true
+                ? buildLoadingScreen()
+                : Container()),
             markerCardData(_controller, context)
           ],
         ));

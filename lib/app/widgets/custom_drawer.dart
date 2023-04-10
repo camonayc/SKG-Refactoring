@@ -88,8 +88,7 @@ class CustomDrawer extends StatelessWidget {
                                 log("$v");
 
                                 if (v != "--empty--") {
-                                  _filterController.location.value =
-                                      v.toString();
+                                  _mapController.location.value = v.toString();
                                 }
                               },
                               value: "--empty--",
@@ -102,7 +101,7 @@ class CustomDrawer extends StatelessWidget {
                               onChangedF: (v) {
                                 log("$v");
                                 if (v != "--empty--") {
-                                  _filterController.propertiesClass.value = v;
+                                  _mapController.propertiesClass.value = v;
                                 }
                               },
                               value: "--empty--",
@@ -116,7 +115,7 @@ class CustomDrawer extends StatelessWidget {
                                 log("$v");
 
                                 if (v != "--empty--") {
-                                  _filterController.orient.value = v;
+                                  _mapController.orient.value = v;
                                 }
                               },
                               value: "--empty--",
@@ -124,8 +123,9 @@ class CustomDrawer extends StatelessWidget {
                             FilterDateButton(
                                 size: size,
                                 filterController: _filterController),
-                            FilterButton(onPressed: () {
-                              _filterController.getIncidentsFilter();
+                            FilterButton(onPressed: () async {
+                              Navigator.pop(context);
+                              await _mapController.getIncidentsFilter();
                             })
                           ],
                         ),
@@ -364,7 +364,9 @@ class FilterDateButton extends StatelessWidget {
                 child: ObxValue((p0) {
                   print(p0);
                   return Text(
-                    _filterController.showDate.value != "" ? _filterController.showDate.value: "Selecciona Fecha",
+                    _filterController.showDate.value != ""
+                        ? _filterController.showDate.value
+                        : "Selecciona Fecha",
                     textAlign: TextAlign.center,
                     style: TextStyle(
                         color: HexColor("#9FDF20"),

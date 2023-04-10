@@ -59,9 +59,10 @@ class FilterController extends GetxController {
     return markerMap.values.toSet();
   }
 
-  Future<void> getIncidentsFilter() async {
+  Future<Map<MarkerId, Marker>?> getIncidentsFilter() async {
+    Map<MarkerId, Marker> newMarker = <MarkerId, Marker>{};
     isLoading.value = true;
-    Get.toNamed(AppRoutes.FILTER);
+    // Get.toNamed(AppRoutes.FILTER);
     log("${incidentes.length}");
 
     if (showDate.value != "") {
@@ -200,8 +201,9 @@ class FilterController extends GetxController {
 
     try {
       if (incidentesFilter.isNotEmpty) {
-        await _makeMarkers(incidentesFilter);
+        newMarker = await _makeMarkers(list: incidentesFilter);
         log("Carga completa");
+        return newMarker;
       } else {
         log("no hay marcadores");
         Get.defaultDialog(
@@ -213,6 +215,7 @@ class FilterController extends GetxController {
         );
       }
       isLoading.value = false;
+      return newMarker;
     } catch (e) {
       log("Error createMarkers FilterController: $e");
     }
@@ -220,6 +223,7 @@ class FilterController extends GetxController {
     orient = 0.obs;
     propertiesClass = 0.obs;
     log("${incidentesFilter.length}");
+    return newMarker;
   }
 
   Future<Uint8List> assetToBytes(String path, {int width = 60}) async {
@@ -232,7 +236,9 @@ class FilterController extends GetxController {
     return newByteData!.buffer.asUint8List();
   }
 
-  Future<void> _makeMarkers(List<Incidents> list) async {
+  Future<Map<MarkerId, Marker>> _makeMarkers(
+      {required List<Incidents> list}) async {
+    Map<MarkerId, Marker> markerss = {};
     final icon = BitmapDescriptor.fromBytes(
         await assetToBytes("assets/images/alerta_inactiva_sin_fondo.png"));
     for (Incidents e in list) {
@@ -249,8 +255,9 @@ class FilterController extends GetxController {
             _incidente = e;
             log("$isTap");
           });
-      marker[markerId] = newMarker;
+      markerss[markerId] = newMarker;
     }
+    return markerss;
   }
 
   bool isDateEqual(int dateInMili) {

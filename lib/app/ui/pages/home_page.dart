@@ -69,10 +69,12 @@ class HomePage extends StatelessWidget {
                 await _registerController.getListData();
               }),
               ViewButton(onPressed: () async {
+                _controller.isLoading.value = true;
                 _mapController.isTap.value = false;
-                _mapController.createMarkers();
-                _dataController.checkPlace();
+                await _mapController.createMarkers();
+                await _dataController.checkPlace();
                 Get.toNamed(AppRoutes.MAP);
+                _controller.isLoading.value = false;
               }),
             ],
           ))),
